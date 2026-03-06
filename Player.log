@@ -1,0 +1,2422 @@
+Mono path[0] = 'F:/test/ZALUPA/EscapeFromTarkov_Data/Managed'
+Mono config path = 'F:/test/ZALUPA/MonoBleedingEdge/etc'
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-0000023218C4C180.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-000002322DC14040.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-000002322EB74040.dll
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+Unity memory allocator detected: MetaXRAudio native memory allocations will be tracked.
+Initialize engine version: 2022.3.43f1 (85497d293fa1)
+[Subsystems] Discovering subsystems at path F:/test/ZALUPA/EscapeFromTarkov_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 5070 (ID=0x2f04)
+    Vendor:   NVIDIA
+    VRAM:     11943 MB
+    Driver:   32.0.15.9186
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.074 seconds
+- Finished resetting the current domain, in  0.001 seconds
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Script error: OnTriggerStay
+The message must have 0 or 1 parameters.
+The message will be ignored.
+Shader 'Effects/Explosions/DistortionFresnel': fallback shader 'Effects/Distortion/Free/CullOff' not found
+Shader 'p0/Reflective/Bumped Specular Mask': fallback shader 'p0/Reflective/Bumped Specular Mask 2' not found
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+[Message:   BepInEx] BepInEx 5.4.23.2 - EscapeFromTarkov (2/26/2026 3:07:03 AM)
+[Info   :   BepInEx] Running under Unity v0.16.9.4008
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] Loaded 1 patcher method from [BlackDiv 1.0.0.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [MoreBotsPrepatch 1.0.0.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [ozen-BatteriesNotIncluded.PrePatch 1.0.3.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [SkillsExtended_PrePatch 2.2.1.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [spt-prepatch 4.0.12.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [UNTARGHPrepatch 1.0.0.0]
+[Info   :   BepInEx] 7 patcher plugins loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [BlackDiv.Prepatch.WildSpawnTypePatch]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [MoreBotsAPI.Prepatch.WildSpawnTypePatch]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [BatteriesNotIncluded.PrePatch.BatteriesNotIncludedPrePatch]
+[Info   :Batteries Not Included] PrePatch complete.
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [SkillsExtendedPatcher]
+[Info   :Skills Extended PrePatch] Patching Complete!
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [SPT.PrePatch.SPTPrePatcher]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [Prepatch.Prepatches.CustomTypesPatch]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Debug  :   BepInEx] Skipping loading F:\test\ZALUPA\BepInEx\plugins\s8_SPT_PatchCRC32\libcrc32_pclmulqdq.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Info   :   BepInEx] 51 plugins to load
+[Info   :   BepInEx] Loading [Bot Overlay - AI Task Monitor 1.0.0]
+[Info   :Bot Overlay - AI Task Monitor] [BotOverlay] Plugin loaded!
+[Info   :   BepInEx] Loading [acidphantasm-botplacementsystem 2.0.13]
+[Info   :ModulePatch] Enabled patch UnregisterPlayerPatch
+[Info   :ModulePatch] Enabled patch MenuLoadPatch
+[Info   :ModulePatch] Enabled patch MaxBotLimitPatch
+[Info   :ModulePatch] Enabled patch LocalGameProgressivePatch
+[Info   :ModulePatch] Enabled patch BossAddProgressionPatch
+[Info   :ModulePatch] Enabled patch PMCWaveCountPatch
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-000002358DDA07E0.dll
+[Info   :ModulePatch] Enabled patch PMCDistancePatch
+[Info   :ModulePatch] Enabled patch AssaultGroupPatch
+[Info   :ModulePatch] Enabled patch NonWavesSpawnScenarioUpdatePatch
+[Info   :ModulePatch] Enabled patch TryToSpawnInZonePatch
+[Info   :ModulePatch] Enabled patch IsPlayerEnemyPatch
+[Info   :   BepInEx] Loading [acidphantasm-enablelabyrinth 1.0.1]
+[Info   :ModulePatch] Enabled patch LocationSceneAwakePatch
+[Info   :   BepInEx] Loading [Configuration Manager 18.4]
+[Info   :   BepInEx] Loading [SPT.Core 4.0.12]
+[Info   :  SPT.Core] Loading: SPT.Core
+[Info   :ModulePatch] Enabled patch ConsistencySinglePatch
+[Info   :ModulePatch] Enabled patch ConsistencyMultiPatch
+[Info   :ModulePatch] Enabled patch GameValidationPatch
+[Info   :ModulePatch] Enabled patch BattlEyePatch
+[Info   :ModulePatch] Enabled patch SslCertificatePatch
+[Info   :ModulePatch] Enabled patch UnityWebRequestPatch
+[Debug  :ModulePatch] WebSocketSslValidationPatch Type: MobileTlsContext
+[Debug  :ModulePatch] WebSocketSslValidationPatch Method: ValidateCertificate
+[Info   :ModulePatch] Enabled patch WebSocketSslValidationPatch
+[Info   :ModulePatch] Enabled patch Patch4001
+[Info   :ModulePatch] Enabled patch Patch4002
+[Info   :  SPT.Core] Completed: SPT.Core
+[Info   :   BepInEx] Loading [DrakiaXYZ-BigBrain 1.4.0]
+[Info   :DrakiaXYZ-BigBrain] Loading: DrakiaXYZ-BigBrain
+[Info   :ModulePatch] Enabled patch BotBaseBrainActivatePatch
+[Info   :ModulePatch] Enabled patch BotBrainCreateLogicNodePatch
+[Info   :ModulePatch] Enabled patch BotBaseBrainUpdatePatch
+[Info   :ModulePatch] Enabled patch BotAgentUpdatePatch
+[Info   :ModulePatch] Enabled patch BotBaseBrainActivateLayerPatch
+[Info   :ModulePatch] Enabled patch BotStandartBotBrainActivatePatch
+[Info   :DrakiaXYZ-BigBrain] Completed: DrakiaXYZ-BigBrain
+[Info   :   BepInEx] Loading [SAIN 4.4.0]
+[Info   :RequestHandler] [REQUEST]: /sain/namepersonalities
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /sain/namepersonalities
+[Info   :ModulePatch] Enabled patch UpdateLightEnablePatch
+[Info   :ModulePatch] Enabled patch UpdateLightEnablePatch2
+[Info   :ModulePatch] Enabled patch ToggleNightVisionPatch
+[Info   :ModulePatch] Enabled patch DisableLookUpdatePatch
+[Info   :ModulePatch] Enabled patch GlobalLookSettingsPatch
+[Info   :ModulePatch] Enabled patch NoAIESPPatch
+[Info   :ModulePatch] Enabled patch BotLightTurnOnPatch
+[Info   :ModulePatch] Enabled patch VisionSpeedPatch
+[Info   :ModulePatch] Enabled patch WeatherVisionPatch
+[Info   :ModulePatch] Enabled patch IsPointInVisibleSectorCallerPatch
+[Info   :ModulePatch] Enabled patch IsPointInVisibleSectorPatch
+[Info   :ModulePatch] Enabled patch VisionDistancePatch
+[Info   :ModulePatch] Enabled patch CheckFlashlightPatch
+[Info   :ModulePatch] Enabled patch VersionLabelPatch
+[Info   :ModulePatch] Enabled patch PlayerHurtPatch
+[Info   :ModulePatch] Enabled patch PlayerTalkPatch
+[Info   :ModulePatch] Enabled patch BotTalkPatch
+[Info   :ModulePatch] Enabled patch BotTalkManualUpdatePatch
+[Info   :ModulePatch] Enabled patch BotShootPatch
+[Info   :ModulePatch] Enabled patch SetGrenadePatch
+[Info   :ModulePatch] Enabled patch ResetGrenadePatch
+[Info   :ModulePatch] Enabled patch DisableGrenadesPatch
+[Info   :ModulePatch] Enabled patch BotAimSteerPatch
+[Info   :ModulePatch] Enabled patch HardAimDisablePatch1
+[Info   :ModulePatch] Enabled patch HardAimDisablePatch2
+[Info   :ModulePatch] Enabled patch PlayerHitReactionDisablePatch
+[Info   :ModulePatch] Enabled patch HitAffectApplyPatch
+[Info   :ModulePatch] Enabled patch DoHitAffectPatch
+[Info   :ModulePatch] Enabled patch AimOffsetPatch
+[Info   :ModulePatch] Enabled patch AimTimePatch
+[Info   :ModulePatch] Enabled patch SmoothTurnPatch
+[Info   :ModulePatch] Enabled patch BotSteeringPitchLimitPatch
+[Info   :ModulePatch] Enabled patch SprintLookDirPatch
+[Info   :ModulePatch] Enabled patch PlayerSetPosePatch
+[Info   :ModulePatch] Enabled patch MovementContextIsAIPatch
+[Info   :ModulePatch] Enabled patch CanBeSnappedPatch
+[Info   :ModulePatch] Enabled patch GlobalShootSettingsPatch
+[Info   :ModulePatch] Enabled patch StopShootCauseAnimatorPatch
+[Info   :ModulePatch] Enabled patch PoseStaminaPatch
+[Info   :ModulePatch] Enabled patch BotMoverManualUpdatePatch
+[Info   :ModulePatch] Enabled patch BotMoverManualFixedUpdatePatch
+[Info   :ModulePatch] Enabled patch AimStaminaPatch
+[Info   :ModulePatch] Enabled patch CrawlPatch
+[Info   :ModulePatch] Enabled patch EncumberedPatch
+[Info   :ModulePatch] Enabled patch GrenadeCollisionPatch
+[Info   :ModulePatch] Enabled patch GrenadeCollisionPatch2
+[Info   :ModulePatch] Enabled patch TryPlayShootSoundPatch
+[Info   :ModulePatch] Enabled patch OnWeaponModifiedPatch
+[Info   :ModulePatch] Enabled patch SoundClipNameCheckerPatch2
+[Info   :ModulePatch] Enabled patch TogglableSetPatch
+[Info   :ModulePatch] Enabled patch SpawnInHandsSoundPatch
+[Info   :ModulePatch] Enabled patch ActivateBotComponentPatch
+[Info   :ModulePatch] Enabled patch AddBotComponentPatch
+[Info   :ModulePatch] Enabled patch AddGameWorldPatch
+[Info   :ModulePatch] Enabled patch GetBotControllerPatch
+[Info   :ModulePatch] Enabled patch WorldTickPatch
+[Info   :ModulePatch] Enabled patch BotOwnerActivatePatch
+[Info   :ModulePatch] Enabled patch StopRequestExecutePatch
+[Info   :ModulePatch] Enabled patch SetEnvironmentPatch
+[Info   :ModulePatch] Enabled patch AddPointToSearchPatch
+[Info   :ModulePatch] Enabled patch SetPanicPointPatch
+[Info   :ModulePatch] Enabled patch HaveSeenEnemyPatch
+[Info   :ModulePatch] Enabled patch TurnDamnLightOffPatch
+[Info   :ModulePatch] Enabled patch ShallKnowEnemyPatch
+[Info   :ModulePatch] Enabled patch ShallKnowEnemyLatePatch
+[Info   :ModulePatch] Enabled patch GrenadeThrownActionPatch
+[Info   :ModulePatch] Enabled patch GrenadeExplosionActionPatch
+[Info   :ModulePatch] Enabled patch BlockVoiceRequestsPatch
+[Info   :ModulePatch] Enabled patch BlockGrenadeThrowRequestsPatch
+[Info   :ModulePatch] Enabled patch BlockRequestPatch
+[Info   :ModulePatch] Enabled patch SetInHands_Empty
+[Info   :ModulePatch] Enabled patch SetInHands_Weapon_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Weapon_Stationary_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Knife_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Grenade_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Food_Patch
+[Info   :ModulePatch] Enabled patch SetInHands_Meds_Patch1
+[Info   :ModulePatch] Enabled patch SetInHands_Meds_Patch2
+[Info   :ModulePatch] Enabled patch SetInHands_QuickUse_Patch1
+[Info   :ModulePatch] Enabled patch SetInHands_QuickUse_Patch2
+[Info   :ModulePatch] Enabled patch RunToEnemyUpdatePatch
+[Info   :ModulePatch] Enabled patch EnableVaultPatch
+[Info   :ModulePatch] Enabled patch FightShallReloadFixPatch
+[Info   :ModulePatch] Enabled patch FixItemTakerPatch
+[Info   :ModulePatch] Enabled patch FixItemTakerPatch2
+[Info   :ModulePatch] Enabled patch RotateClampPatch
+[Info   :ModulePatch] Enabled patch BotGroupAddEnemyPatch
+[Info   :ModulePatch] Enabled patch BotMemoryAddEnemyPatch
+[Info   :ModulePatch] Enabled patch StopSetToNavMeshPatch
+[Info   :ModulePatch] Enabled patch StopSetToNavMeshPatch2
+[Info   :ModulePatch] Enabled patch RemoveSkillIssueController
+[Info   :ModulePatch] Enabled patch EnableUsecPmcKhorovodPatch
+[Info   :ModulePatch] Enabled patch EnableBearPmcKhorovodPatch
+[Info   :ModulePatch] Enabled patch TreeSoundPatch
+[Info   :ModulePatch] Enabled patch DoorSoundPatch
+[Info   :ModulePatch] Enabled patch DoorBreachSoundPatch
+[Info   :ModulePatch] Enabled patch DryShotPatch
+[Info   :ModulePatch] Enabled patch PlaySwitchHeadlightSoundPatch
+[Info   :ModulePatch] Enabled patch LootingSoundPatch
+[Info   :ModulePatch] Enabled patch AimSoundPatch
+[Info   :ModulePatch] Enabled patch BulletImpactPatch
+[Info   :ModulePatch] Enabled patch HearingSensorPatch
+[Info   :ModulePatch] Enabled patch OnMakingShotPatch
+[Info   :ModulePatch] Enabled patch RegisterShotPatch
+[Info   :ModulePatch] Enabled patch SoundClipNameCheckerPatch
+[Info   :ModulePatch] Enabled patch BodyPartToShootPatch
+[Info   :SAIN PatchManager] Enabled 106 patches
+[Info   :   BepInEx] Loading [BlackDiv 1.0.1]
+[Info   :ModulePatch] Enabled patch TarkovInitPatch
+[Info   :ModulePatch] Enabled patch BotsControllerInitPatch
+[Info   :ModulePatch] Enabled patch BDNvgPatch
+[Info   :   BepInEx] Loading [LootingBots 1.6.3]
+[Info   :ModulePatch] Enabled patch CleanCacheOnRaidEndPatch
+[Info   :ModulePatch] Enabled patch EnableWeaponSwitchingPatch
+[Info   :ModulePatch] Enabled patch LootDataHaveActionsPatch
+[Info   :ModulePatch] Enabled patch LootDataSetTargetLootClusterPatch
+[Info   :ModulePatch] Enabled patch RemoveLootingBrainPatch
+[Info   :LootingBots PatchManager] Enabled 5 patches
+[Info   :   BepInEx] Loading [DrakiaXYZ-Waypoints 1.8.1]
+[Info   :ModulePatch] Enabled patch DebugPatch
+[Info   :ModulePatch] Enabled patch WaypointPatch
+[Info   :ModulePatch] Enabled patch DoorLinkPatch
+[Info   :ModulePatch] Enabled patch DoorLinkStateChangePatch
+[Info   :ModulePatch] Enabled patch SwitchDoorBlockerPatch
+[Info   :ModulePatch] Enabled patch ExfilDoorBlockerPatch
+[Info   :ModulePatch] Enabled patch FindPathPatch
+[Info   :   BepInEx] Loading [Blackhorse311-BotMind 1.6.0]
+[Info   :Blackhorse311-BotMind] BotMind is loading...
+[Debug  :Blackhorse311-BotMind] Step 1: Initializing configuration...
+[Debug  :Blackhorse311-BotMind] Initializing configuration...
+[Debug  :Blackhorse311-BotMind] Step 2: Initializing SAIN interop...
+[Debug  :Blackhorse311-BotMind] Initializing SAIN interop...
+[Info   :Blackhorse311-BotMind] SAINInterop.Init: Resolved SAIN External type: SAIN.Interop.SAINExternal
+[Debug  :Blackhorse311-BotMind] Step 3: Registering brain layers...
+[Debug  :Blackhorse311-BotMind] Registering BigBrain layers...
+[Warning:Blackhorse311-BotMind] LootingBots detected — BotMind's Looting module has been auto-disabled to avoid conflicts. LootingBots will handle all bot looting behavior. MedicBuddy and Questing modules remain active.
+[Info   :Blackhorse311-BotMind] Registered QuestingLayer for 7 brain types
+[Info   :Blackhorse311-BotMind] Registered MedicBuddy layers
+[Debug  :Blackhorse311-BotMind] Step 4: Enabling game event patches...
+[Debug  :Blackhorse311-BotMind] Enabling game event patches...
+[Info   :ModulePatch] Enabled patch GameStartedPatch
+[Info   :ModulePatch] Enabled patch GameWorldDisposePatch
+[Info   :ModulePatch] Enabled patch BotLimitPatch
+[Info   :Blackhorse311-BotMind] BotMind loaded successfully!
+[Info   :   BepInEx] Loading [Borkel's Realistic NVGs 2.0.2]
+Shader 'Hidden/CustomNightVision': fallback shader 'Hidden/Internal-BlackError' not found
+Shader 'Custom/ContrastShader': fallback shader 'Diffuse' not found
+Shader 'Custom/AdditiveBlendShader': fallback shader 'Diffuse' not found
+Shader 'Custom/ExposureShader': fallback shader 'Diffuse' not found
+[Info   :ModulePatch] Enabled patch NightVisionAwakePatch
+[Info   :ModulePatch] Enabled patch NightVisionApplySettingsPatch
+[Info   :ModulePatch] Enabled patch NightVisionSetMaskPatch
+[Info   :ModulePatch] Enabled patch ThermalVisionSetMaskPatch
+[Info   :ModulePatch] Enabled patch SprintPatch
+[Info   :ModulePatch] Enabled patch NightVisionMethod_1
+[Info   :ModulePatch] Enabled patch MenuPatch
+[Info   :ModulePatch] Enabled patch InitiateShotPatch
+[Info   :ModulePatch] Enabled patch IkLightAwakePatch
+[Info   :ModulePatch] Enabled patch LaserBeamAwakePatch
+[Info   :ModulePatch] Enabled patch LaserBeamLateUpdatePatch
+[Info   :ModulePatch] Enabled patch EmitGrenadePatch
+[Info   :ModulePatch] Enabled patch GameStartedPatch
+[Info   :Borkel's Realistic NVGs] Patches enabled successfully!
+[Info   :   BepInEx] Loading [SPT.Custom 4.0.12]
+[Info   :SPT.Custom] Loading: SPT.Custom
+[Info   :ModulePatch] Enabled patch EasyAssetsPatch
+[Info   :ModulePatch] Enabled patch EasyBundlePatch
+[Info   :ModulePatch] Enabled patch GameStartRequestPatch
+[Info   :ModulePatch] Enabled patch DisableNonHalloweenExitsDuringEventPatch
+[Info   :ModulePatch] Enabled patch SendFleaListingTaxAmountToServerPatch
+[Info   :ModulePatch] Enabled patch AddTraitorScavsPatch
+[Info   :RequestHandler] [REQUEST]: /singleplayer/bosstypes
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/bosstypes
+[Info   :ModulePatch] Enabled patch CustomAiPatch
+[Info   :ModulePatch] Enabled patch SaveSettingsToSptFolderPatch
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetInt
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetFloat
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetString
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-0000023595F8F050.dll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetInt
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-000002359641C020.dll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetFloat
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-00000235964C0010.dll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetString
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-0000023596463040.dll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsHasKey
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-00000235964C1E70.dll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsDeleteKey
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-0000023596514010.dll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsDeleteAll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/data-0000023596538020.dll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSave
+[Info   :ModulePatch] Enabled patch QTEPatch
+[Info   :ModulePatch] Enabled patch RedirectClientImageRequestsPatch
+[Info   :ModulePatch] Enabled patch DisableGameModeAdjustButtonPatch
+[Info   :ModulePatch] Enabled patch FixPmcSpawnParamsNullErrorPatch
+[Info   :ModulePatch] Enabled patch SetPreRaidSettingsScreenDefaultsPatch
+[Info   :ModulePatch] Enabled patch CoreDifficultyPatch
+[Info   :ModulePatch] Enabled patch BotDifficultyPatch
+[Info   :ModulePatch] Enabled patch VersionLabelPatch
+[Info   :ModulePatch] Enabled patch FixScavWarNullErrorWithMarkOfUnknownPatch
+[Info   :ModulePatch] Enabled patch MergeScavPmcQuestsOnInventoryLoadPatch
+[Info   :ModulePatch] Enabled patch CopyPmcQuestsAndWishlistToPlayerScavPatch
+[Info   :ModulePatch] Enabled patch FixBossesHavingNoFollowersOnMediumAiAmount
+[Info   :ModulePatch] Enabled patch FixAirdropCrashPatch
+[Info   :ModulePatch] Enabled patch FixAirdropFlareDisposePatch
+[Info   :ModulePatch] Enabled patch AllowAirdropsInPvEPatch
+[Info   :ModulePatch] Enabled patch MemoryCollectionPatch
+[Info   :ModulePatch] Enabled patch LocaleManagerRaceConditionFixPatch
+[Info   :ModulePatch] Enabled patch AddOfferFilterHangPatch
+[Info   :ModulePatch] Enabled patch FixPrecipitationAmbientBlenderNullRefPatch
+[Info   :ModulePatch] Enabled patch EnablePrestigeTabPatch
+[Debug  :ModulePatch] MatchStartServerLocationPatch Type: Struct388
+[Debug  :ModulePatch] MatchStartServerLocationPatch Method: MoveNext
+[Debug  :ModulePatch] MatchStartServerLocationPatch Nested Type: Class1492
+[Info   :ModulePatch] Enabled patch MatchStartServerLocationPatch
+[Info   :ModulePatch] Enabled patch SpawnPointAIPlayerBotLimitPatch
+[Info   :ModulePatch] Enabled patch SpawnPointNearestPlayerAIPatch
+[Info   :ModulePatch] Enabled patch BotsControllerInitPatch
+[Info   :ModulePatch] Enabled patch BotsEventsControllerActivatePatch
+[Info   :ModulePatch] Enabled patch EnableInfectionUIPatch
+[Info   :ModulePatch] Enabled patch KhorovodDisposeFix
+[Info   :SPT.Custom] Completed: SPT.Custom
+[Info   :   BepInEx] Loading [SPT.Singleplayer 4.0.12]
+[Info   :SPT.Singleplayer] Loading: SPT.SinglePlayer
+[Info   :ModulePatch] Enabled patch TinnitusFixPatch
+[Debug  :ModulePatch] EmptyInfilFixPatch Type: BaseLocalGame`1
+[Debug  :ModulePatch] EmptyInfilFixPatch Method: vmethod_6
+[Info   :ModulePatch] Enabled patch EmptyInfilFixPatch
+[Info   :ModulePatch] Enabled patch OverrideMaxAiAliveInRaidValuePatch
+[Info   :ModulePatch] Enabled patch FixPostScavRaidXpShowingZeroPatch
+[Info   :ModulePatch] Enabled patch DisablePMCExtractsForScavsPatch
+[Info   :ModulePatch] Enabled patch ScavExfilPatch
+[Debug  :ModulePatch] ScavProfileLoadPatch Type: Struct388
+[Debug  :ModulePatch] ScavProfileLoadPatch Method: MoveNext
+[Info   :ModulePatch] Enabled patch ScavProfileLoadPatch
+[Debug  :ModulePatch] ScavPrefabLoadPatch Type: Struct389
+[Debug  :ModulePatch] ScavPrefabLoadPatch Method: MoveNext
+[Info   :ModulePatch] Enabled patch ScavPrefabLoadPatch
+[Info   :ModulePatch] Enabled patch LoadOfflineRaidScreenPatch
+[Info   :ModulePatch] Enabled patch PluginErrorNotifierPatch
+[Info   :ModulePatch] Enabled patch RemoveUsedBotProfilePatch
+[Debug  :ModulePatch] ScavLateStartPatch Type: TarkovApplication
+[Debug  :ModulePatch] ScavLateStartPatch Method: method_49
+[Info   :ModulePatch] Enabled patch ScavLateStartPatch
+[Info   :ModulePatch] Enabled patch ScavSellAllPriceStorePatch
+[Info   :ModulePatch] Enabled patch ScavSellAllRequestPatch
+[Info   :ModulePatch] Enabled patch ScavRepAdjustmentPatch
+[Info   :ModulePatch] Enabled patch DisableWelcomeToPVEModeMessagePatch
+[Info   :ModulePatch] Enabled patch DisableMatchmakerPlayerPreviewButtonsPatch
+[Info   :ModulePatch] Enabled patch EnablePlayerScavPatch
+[Info   :ModulePatch] Enabled patch ScavFoundInRaidPatch
+[Info   :ModulePatch] Enabled patch GetProfileAtEndOfRaidPatch
+[Info   :ModulePatch] Enabled patch SendPlayerScavProfileToServerAfterRaidPatch
+[Info   :ModulePatch] Enabled patch RemoveStashUpgradeLabelPatch
+[Info   :ModulePatch] Enabled patch RemoveClothingItemExternalObtainLabelPatch
+[Info   :ModulePatch] Enabled patch ForceRaidModeToLocalPatch
+[Info   :ModulePatch] Enabled patch ScavIsPlayerEnemyPatch
+[Info   :ModulePatch] Enabled patch FirearmControllerShowIncompatibleNotificationClass
+[Info   :ModulePatch] Enabled patch FixKeyAlreadyExistsErrorOnAchievementPatch
+[Info   :ModulePatch] Enabled patch ScavPrestigeFixPatch
+[Info   :ModulePatch] Enabled patch DisableDevMaskCheckPatch
+[Info   :ModulePatch] Enabled patch RemoveStopwatchAllocationsEveryCoverPointFramePatch
+[Info   :ModulePatch] Enabled patch DisableUseBSGServersCheckbox
+[Info   :ModulePatch] Enabled patch PmcBotSidePatch
+[Info   :ModulePatch] Enabled patch QuestAchievementRewardInRaidPatch
+[Info   :ModulePatch] Enabled patch FixUnityWarningSpamFromAirdropsPatch
+[Info   :ModulePatch] Enabled patch DisableReadyLocationReadyPatch
+[Info   :ModulePatch] Enabled patch DisableMatchmakerOfflineRaidReadyPatch
+[Info   :ModulePatch] Enabled patch DisableMatchmakerInsuranceReadyPatch
+[Warning:  HarmonyX] DisableDiscardLimitsPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual bool EFT.Player+PlayerInventoryController::get_HasDiscardLimits() instead of virtual bool EFT.Player+PlayerInventoryController::get_HasDiscardLimits().
+[Info   :ModulePatch] Enabled patch DisableDiscardLimitsPatch
+[Info   :ModulePatch] Enabled patch DisableBuffLoggingPatch
+[Info   :ModulePatch] Enabled patch RemoveStashUpgradeLabelPatch2
+[Debug  :ModulePatch] LocaleFixPatch Type: Struct427
+[Info   :ModulePatch] Enabled patch LocaleFixPatch
+[Info   :ModulePatch] Enabled patch RemoveTransitionRaidModeSetPatch
+[Info   :ModulePatch] Enabled patch FixDisableBossSpawningOptionPatch
+[Info   :ModulePatch] Enabled patch DisableHideoutCounterResetPatch
+[Info   :SPT.Singleplayer] Completed: SPT.SinglePlayer
+[Info   :   BepInEx] Loading [SPT.Debugging 4.0.12]
+[Info   :SPT.Debugging] Loading: SPT.Debugging
+[Info   :ModulePatch] Enabled patch EndRaidDebug
+[Info   :ModulePatch] Enabled patch LoggerClassLogPatch
+[Info   :ModulePatch] Enabled patch ReloadClientPatch
+[Info   :ModulePatch] Enabled patch EnableDebugCommandsPatch
+[Info   :SPT.Debugging] Completed: SPT.Debugging
+[Info   :   BepInEx] Loading [Fika.Core 2.2.3]
+[Info   : Fika.Core] [LogValues]: Received NatPunchServer config from server:
+[Info   : Fika.Core] [LogValues]: Enable: False
+[Info   : Fika.Core] [LogValues]: Port: 6790
+[Info   :ModulePatch] Enabled patch AchievementsScreen_Show_Patch
+[Info   :ModulePatch] Enabled patch AchievementView_Show_Patch
+[Info   :ModulePatch] Enabled patch ChangeGameModeButton_Patch
+[Info   :ModulePatch] Enabled patch CoopSettingsWindow_Show_Patch
+[Info   :ModulePatch] Enabled patch DisableInsuranceReadyButton_Patch
+[Info   :ModulePatch] Enabled patch DisableMatchSettingsReadyButton_Patch
+[Info   :ModulePatch] Enabled patch DisableReadyButton_Patch
+[Info   :ModulePatch] Enabled patch DisconnectButton_Patch
+[Info   :ModulePatch] Enabled patch FikaVersionLabel_Patch
+[Info   :ModulePatch] Enabled patch MainMenuControllerClass_method_55_Patch
+[Info   :ModulePatch] Enabled patch MatchmakerOfflineRaidScreen_Show_Patch
+[Info   :ModulePatch] Enabled patch MatchmakerOfflineRaidScreen_Close_Patch
+[Info   :ModulePatch] Enabled patch MatchmakerPlayerControllerClass_GetCoopBlockReason_Patch
+[Info   :ModulePatch] Enabled patch MenuTaskBar_Patch
+[Info   :ModulePatch] Enabled patch PartyInfoPanel_Show_Patch
+[Info   :ModulePatch] Enabled patch RaidSettingsWindow_method_8_Patch
+[Info   :ModulePatch] Enabled patch RaidSettingsWindow_Show_Patch
+[Info   :ModulePatch] Enabled patch SessionResultExitStatus_Show_Patch
+[Info   :ModulePatch] Enabled patch TarkovApplication_method_16_Patch
+[Info   :ModulePatch] Enabled patch MatchmakerAcceptScreen_Awake_Patch
+[Info   :ModulePatch] Enabled patch MatchmakerAcceptScreen_Show_Patch
+[Info   :ModulePatch] Enabled patch GClass3871_ShowAction_Patch
+[Info   :ModulePatch] Enabled patch HideoutPlayerOwner_SetPointOfView_Patch
+[Info   :ModulePatch] Enabled patch MenuScreen_Awake_Patch
+[Info   :ModulePatch] Enabled patch MenuScreen_method_9_Patch
+[Info   :ModulePatch] Enabled patch RagfairScreen_Show_Patch
+[Warning:  HarmonyX] com.fika.core: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void EFT.BaseLocalGame<EFT.EftGamePlayerOwner>::method_20(LoadingProgressStruct p) instead of void EFT.BaseLocalGame<EFT.EftGamePlayerOwner>::method_20(LoadingProgressStruct p).
+[Info   :ModulePatch] Enabled patch LoadingLootPatch
+[Info   :ModulePatch] Enabled patch MapCachingPatch
+[Info   :ModulePatch] Enabled patch MapLoadingPatch
+[Info   :ModulePatch] Enabled patch BotCacher_Patch
+[Info   :ModulePatch] Enabled patch GClass2287_method_0_Patch
+[Info   :ModulePatch] Enabled patch GClass3585_ExceptAI_Patch
+[Info   :ModulePatch] Enabled patch GrenadeClass_Init_Patch
+[Info   :ModulePatch] Enabled patch LocaleClass_ReloadBackendLocale_Patch
+[Info   :ModulePatch] Enabled patch TransitInteractionControllerAbstractClass_method_11_Patch
+[Info   :ModulePatch] Enabled patch BasicMicrophoneCapture_UpdateSubscribers_Transpiler
+[Info   :ModulePatch] Enabled patch DissonanceComms_Start_Patch
+[Info   :ModulePatch] Enabled patch Player_IDissonancePlayerType_Patch
+[Info   :ModulePatch] Enabled patch TripwireSynchronizableObject_method_11_Patch
+[Info   :ModulePatch] Enabled patch TripwireSynchronizableObject_method_6_Patch
+[Info   :ModulePatch] Enabled patch TransitControllerAbstractClass_Exist_Patch
+[Info   :ModulePatch] Enabled patch CustomPlayerLoopSystemsInjector_InjectDataProviderSyncUpdate_Transpiler
+[Info   :ModulePatch] Enabled patch CustomPlayerLoopSystemsInjector_InjectPostUNetUpdateSystem_Transpiler
+[Info   :ModulePatch] Enabled patch CustomPlayerLoopSystemsInjector_MoveUNetUpdateSystemOnPreUpdate_Transpiler
+[Info   :ModulePatch] Enabled patch RocketLauncherConeBlastClass_Initialize_Patch
+[Info   :ModulePatch] Enabled patch RocketProjectile_Launch_Patch
+[Info   :ModulePatch] Enabled patch RocketProjectile_method_6_Patch
+[Info   :ModulePatch] Enabled patch BodyPartCollider_SetUpPlayer_Patch
+[Info   :ModulePatch] Enabled patch Player_HasMarkOfUnknown_Patch
+[Info   :ModulePatch] Enabled patch Player_Hide_Patch
+[Info   :ModulePatch] Enabled patch Player_ManageAggressor_Patch
+[Info   :ModulePatch] Enabled patch Player_OnDead_Patch
+[Info   :ModulePatch] Enabled patch Player_SetDogtagInfo_Patch
+[Info   :ModulePatch] Enabled patch Player_SpawnInHands_Patch
+[Info   :ModulePatch] Enabled patch GetProfileAtEndOfRaidPatch_Override
+[Info   :ModulePatch] Enabled patch FixSavageInventoryScreenPatch_Override
+[Info   :ModulePatch] Enabled patch OfflineRaidSettingsMenuPatch_Override
+[Info   :ModulePatch] Enabled patch PmcFoundInRaidEquipment_ConfigurePMCFindInRaidStatus_Patch
+[Info   :ModulePatch] Enabled patch ScavProfileLoad_Override
+[Info   :ModulePatch] Enabled patch MovementContext_method_11_Transpiler
+[Info   :ModulePatch] Enabled patch MovementContext_method_9_Transpiler
+[Info   :ModulePatch] Enabled patch MovementContext_PreviousRotation_Transpiler
+[Info   :ModulePatch] Enabled patch MovementContext_RestorePreviousYaw_Transpiler
+[Info   :ModulePatch] Enabled patch MovementContext_Rotation_Transpiler
+[Info   :ModulePatch] Enabled patch MineDirectional_OnTriggerEnter_Patch
+[Info   :ModulePatch] Enabled patch Minefield_method_2_Patch
+[Info   :ModulePatch] Enabled patch BaseLocalGame_method_14_Patch
+[Info   :ModulePatch] Enabled patch NonWaveSpawnScenario_Patch
+[Info   :ModulePatch] Enabled patch TarkovApplication_LocalGameCreator_Patch
+[Info   :ModulePatch] Enabled patch TarkovApplication_LocalGamePreparer_Patch
+[Info   :ModulePatch] Enabled patch WaveSpawnScenario_Patch
+[Info   :ModulePatch] Enabled patch BufferInnerZone_ChangePlayerAccessStatus_Patch
+[Info   :ModulePatch] Enabled patch BufferInnerZone_ChangeZoneInteractionAvailability_Patch
+[Info   :ModulePatch] Enabled patch BufferZoneControllerClass_method_1_Patch
+[Info   :ModulePatch] Enabled patch BufferZoneControllerClass_SetPlayerInZoneStatus_Patch
+[Info   :ModulePatch] Enabled patch GameWorld_Create_Patch
+[Info   :ModulePatch] Enabled patch GameWorld_method_2_Patch
+[Info   :ModulePatch] Enabled patch GameWorld_ThrowItem_Patch
+[Info   :ModulePatch] Enabled patch AnticheatMipMapChecker_Start_Patch
+[Info   :ModulePatch] Enabled patch OpticRetrice_UpdateTransform_Patch
+[Info   :ModulePatch] Enabled patch PlayerCameraController_LateUpdate_Transpiler
+[Info   :ModulePatch] Enabled patch WeaponManagerClass_method_12_Patch
+[Info   :ModulePatch] Enabled patch WeaponManagerClass_ValidateScopeSmoothZoomUpdate_Patch
+[Info   :ModulePatch] Enabled patch BTRControllerClass_Init_Patch
+[Info   :ModulePatch] Enabled patch BTRTurretView_AttachBot_Postfix
+[Info   :ModulePatch] Enabled patch BTRVehicle_method_38_Patch
+[Info   :ModulePatch] Enabled patch BTRView_GoIn_Patch
+[Info   :ModulePatch] Enabled patch BTRView_GoOut_Patch
+[Info   :ModulePatch] Enabled patch BTRView_Start_Patch
+[Info   :ModulePatch] Enabled patch Player_UpdateBtrTraderServiceData_Patch
+[Info   :ModulePatch] Enabled patch ArtilleryServerProjectileClass_Constructor_Patch
+[Info   :ModulePatch] Enabled patch ServerShellingControllerClass_method_0_Patch
+[Info   :ModulePatch] Enabled patch ServerShellingControllerClass_method_28_Patch
+[Warning:  HarmonyX] com.fika.core: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual void EFT.Player::OnItemAddedOrRemoved(EFT.InventoryLogic.Item item, EFT.InventoryLogic.ItemAddress location, bool added) instead of virtual void EFT.Player::OnItemAddedOrRemoved(EFT.InventoryLogic.Item item, EFT.InventoryLogic.ItemAddress location, bool added).
+[Info   :ModulePatch] Enabled patch FikaPlayer_OnItemAddedOrRemoved_Transpiler
+[Info   :ModulePatch] Enabled patch Player_CheckArmorHitByDirection_Transpiler
+[Info   :ModulePatch] Enabled patch Player_IsShotDeflectedByHeavyArmor_Transpiler
+[Info   :ModulePatch] Enabled patch Player_method_95_Transpiler
+[Info   :ModulePatch] Enabled patch Player_ProceedDamageThroughArmor_Patch
+[Info   :ModulePatch] Enabled patch Player_RecalculateEquipmentParams_Transpiler
+[Info   :ModulePatch] Enabled patch Player_TryGetArmorResistData_Transpiler
+[Info   :ModulePatch] Enabled patch OfflineAirdropServerLogicClass_UpdateOfflineClientLogic_Patch
+[Info   :ModulePatch] Enabled patch OfflineAirplaneServerLogicClass_UpdateOfflineClientLogic_Patch
+[Info   :ModulePatch] Enabled patch SyncObjectProcessorClass_GetSyncObjectStrategyByType_Patch
+[Info   :ModulePatch] Enabled patch AIPlaceLogicPartisan_Dispose_Patch
+[Info   :ModulePatch] Enabled patch BotReload_method_1_Patch
+[Info   :ModulePatch] Enabled patch AbstractGame_InRaid_Patch
+[Info   :ModulePatch] Enabled patch DeathFade_Patch
+[Info   :ModulePatch] Enabled patch PlayEndGameSound_Patch
+[Info   :ModulePatch] Enabled patch PlayUISound_Patch
+[Info   :ModulePatch] Enabled patch LighthouseTraderZone_AddPlayer_Patch
+[Info   :ModulePatch] Enabled patch LighthouseTraderZone_RemovePlayer_Patch
+[Info   :ModulePatch] Enabled patch LighthouseTraderZone_Awake_Patch
+[Info   :ModulePatch] Enabled patch ZyriachyBossLogicClass_Activate_Patch
+[Info   :ModulePatch] Enabled patch BTRSide_AddPassenger_Patch
+[Info   :ModulePatch] Enabled patch BTRSide_RemovePassenger_Patch
+[Info   :ModulePatch] Enabled patch BTRSide_method_9_Patch
+[Info   :Fika.Core PatchManager] Enabled 116 patches
+[Info   :ModulePatch] Disabled patch VersionLabelPatch
+[Info   :ModulePatch] Disabled patch ScavRepAdjustmentPatch
+[Info   :ModulePatch] Disabled patch GetProfileAtEndOfRaidPatch
+[Info   :ModulePatch] Disabled patch ScavExfilPatch
+[Info   :ModulePatch] Disabled patch SendPlayerScavProfileToServerAfterRaidPatch
+[Debug  :ModulePatch] MatchStartServerLocationPatch Type: Struct388
+[Debug  :ModulePatch] MatchStartServerLocationPatch Method: MoveNext
+[Debug  :ModulePatch] MatchStartServerLocationPatch Nested Type: Class1492
+[Info   :ModulePatch] Disabled patch MatchStartServerLocationPatch
+[Info   :ModulePatch] Disabled patch QuestAchievementRewardInRaidPatch
+[Info   : Fika.Core] [LogValues]: Received config from server:
+[Info   : Fika.Core] [LogValues]: UseBTR: True
+[Info   : Fika.Core] [LogValues]: FriendlyFire: True
+[Info   : Fika.Core] [LogValues]: DynamicVExfils: False
+[Info   : Fika.Core] [LogValues]: AllowFreeCam: False
+[Info   : Fika.Core] [LogValues]: AllowSpectateFreeCam: False
+[Info   : Fika.Core] [LogValues]: AllowItemSending: True
+[Info   : Fika.Core] [LogValues]: BlacklistedItems: 
+[Info   : Fika.Core] [LogValues]: ForceSaveOnDeath: False
+[Info   : Fika.Core] [LogValues]: UseInertia: True
+[Info   : Fika.Core] [LogValues]: SharedQuestProgression: False
+[Info   : Fika.Core] [LogValues]: CanEditRaidSettings: True
+[Info   : Fika.Core] [LogValues]: EnableTransits: True
+[Info   : Fika.Core] [LogValues]: AnyoneCanStartRaid: False
+[Info   : Fika.Core] [LogValues]: AllowNamePlates: True
+[Info   : Fika.Core] [LogValues]: RandomLabyrinthSpawns: False
+[Info   : Fika.Core] [LogValues]: PMCFoundInRaid: False
+[Info   : Fika.Core] Fika is loaded! Running version: 2.2.3.0
+BLOCKER ERROR. Add settings for role:followeruntar
+BLOCKER ERROR. Add settings for role:bossuntarlead
+BLOCKER ERROR. Add settings for role:followeruntarmarksman
+BLOCKER ERROR. Add settings for role:bossuntarofficer
+BLOCKER ERROR. Add settings for role:blackDivLead
+BLOCKER ERROR. Add settings for role:blackDivAssault
+BLOCKER ERROR. Add settings for role:blackDivBreacher
+BLOCKER ERROR. Add settings for role:blackDivSupport
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/difficulty/core/core
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/difficulty/core/core
+[Info   :ModulePatch] Enabled patch ItemContext_Patch
+[Info   :   BepInEx] Loading [Skills Extended 2.2.1]
+[Info   :ModulePatch] Enabled patch UpdateWeaponsPatch
+[Info   :ModulePatch] Enabled patch BuffIconShowPatch
+[Info   :ModulePatch] Enabled patch SkillIconShowPatch
+[Info   :ModulePatch] Enabled patch SkillPanelDisablePatch
+[Info   :ModulePatch] Enabled patch MovementContextSetSpeedLimitPatch
+[Info   :ModulePatch] Enabled patch DoorSoundPatch
+[Info   :ModulePatch] Enabled patch GetBarterPricePatch
+[Info   :ModulePatch] Enabled patch RequiredItemsCountPatch
+[Info   :ModulePatch] Enabled patch MeleeSpeedPatch
+[Info   :ModulePatch] Enabled patch OnEnemyKillPatch
+[Info   :ModulePatch] Enabled patch OnGameStartedPatch
+[Info   :ModulePatch] Enabled patch ProneMoveStatePatch
+[Info   :ModulePatch] Enabled patch ProneMoveVolumePatch
+[Info   :ModulePatch] Enabled patch DoorActionPatch
+[Info   :ModulePatch] Enabled patch CanWalkPatch
+[Info   :ModulePatch] Enabled patch HealthEffectComponentPatch
+[Info   :ModulePatch] Enabled patch HealthEffectUseTimePatch
+[Info   :ModulePatch] Enabled patch SpawnPatch
+[Info   :ModulePatch] Enabled patch AbstractSkillClassSummaryLevelPatch
+[Info   :ModulePatch] Enabled patch PersonalBuffPatch
+[Info   :ModulePatch] Enabled patch PersonalBuffFullStringPatch
+[Info   :ModulePatch] Enabled patch StimulatorApplyBuffPatch
+[Info   :ModulePatch] Enabled patch CreatePhysicalSkillsPatch
+[Info   :ModulePatch] Enabled patch SkillClassCtorPatch
+[Info   :ModulePatch] Enabled patch SkillClassOnTriggerPatch
+[Info   :ModulePatch] Enabled patch SkillManagerConstructorPatch
+[Info   :Skills Extended PatchManager] Enabled 26 patches
+[Info   :   BepInEx] Loading [Skills Extended Fika 1.0.0]
+[Info   :ModulePatch] Enabled patch OnGameStartedPatch
+[Info   :Skills Extended Fika PatchManager] Enabled 1 patches
+[Info   :   BepInEx] Loading [Use items anywhere 1.3.2]
+[Info   :ModulePatch] Enabled patch ContainerSlotsPatch
+[Info   :ModulePatch] Enabled patch GetThrowablePriorityGrenadesListPatch
+[Info   :ModulePatch] Enabled patch GrenadeThrowingSlotsPatch
+[Info   :ModulePatch] Enabled patch IsAtBindablePlace
+[Info   :ModulePatch] Enabled patch IsAtReachablePlace
+[Info   :ModulePatch] Enabled patch PaymentSlotsPatch
+[Info   :Use items anywhere PatchManager] Enabled 6 patches
+[Info   :   BepInEx] Loading [Quests Extended 4.0.2]
+[Info   :ModulePatch] Enabled patch OnGameStartedPatch
+[Info   :ModulePatch] Enabled patch OnUnregisterPlayerPatch
+[Info   :ModulePatch] Enabled patch EnemyDamagePatch
+[Info   :ModulePatch] Enabled patch SearchContainerPatch
+[Info   :ModulePatch] Enabled patch SwitchPatch
+[Info   :ModulePatch] Enabled patch ArmourDurabilityPatch
+[Info   :ModulePatch] Enabled patch DestroyLimbsPatch
+[Info   :ModulePatch] Enabled patch EnemyKillPatch
+[Info   :ModulePatch] Enabled patch EnterBlindFirePatch
+[Info   :ModulePatch] Enabled patch ExitBlindFirePatch
+[Info   :ModulePatch] Enabled patch CustomConditionChecker
+[Info   :ModulePatch] Enabled patch VanillaConditionChecker
+[Info   :ModulePatch] Enabled patch FixMalfunctionPatch
+[Info   :ModulePatch] Enabled patch QEFromTraderScreensGroupPatch
+[Info   :ModulePatch] Enabled patch CreateQEInMainMenuOnInventoryScreenClick
+[Info   :ModulePatch] Enabled patch CheckForQECBeforeHideout
+[Info   :ModulePatch] Enabled patch WorkoutPatch
+[Info   :ModulePatch] Enabled patch CollectCraftedItemPatch
+[Info   :ModulePatch] Enabled patch QETransactionPatch
+[Info   :ModulePatch] Enabled patch MainMenuControllerGetterPatch
+[Info   :ModulePatch] Enabled patch BSGWHYISYOURCODELIKETHIS
+[Warning:  HarmonyX] ResetMainMenuPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual void EFT.UI.ButtonFeedback::OnPointerClick(UnityEngine.EventSystems.PointerEventData eventData) instead of virtual void EFT.UI.ButtonFeedback::OnPointerClick(UnityEngine.EventSystems.PointerEventData eventData).
+[Info   :ModulePatch] Enabled patch ResetMainMenuPatch
+[Info   :ModulePatch] Enabled patch BlockMessagePatch
+[Info   :ModulePatch] Enabled patch HoldMostRecentlyDamagedPlayer
+[Info   :ModulePatch] Enabled patch KeyUsedOnDoorPatch
+[Info   :ModulePatch] Enabled patch KeyCardUsedOnDoorPatch
+[Info   :ModulePatch] Enabled patch PedometerPatch
+[Info   :   BepInEx] Loading [Fontaine-FOVFix 4.0.1]
+[Info   :ModulePatch] Enabled patch PwaWeaponParamsPatch
+[Info   :ModulePatch] Enabled patch FreeLookPatch
+[Info   :ModulePatch] Enabled patch LerpCameraPatch
+[Info   :ModulePatch] Enabled patch FovRangePatch
+[Info   :ModulePatch] Enabled patch FovValuePatch
+[Info   :ModulePatch] Enabled patch AimingSensitivityPatch
+[Info   :ModulePatch] Enabled patch ScopeSensitivityPatch
+[Info   :ModulePatch] Enabled patch CloneItemPatch
+[Info   :ModulePatch] Enabled patch SetPlayerAimingPatch
+[Info   :ModulePatch] Enabled patch CalculateScaleValueByFovPatch
+[Info   :   BepInEx] Loading [SPT-UseLooseLoot 1.5.1]
+[Info   :ModulePatch] Enabled patch MakeFoodMedsUsablePatch
+[Info   :SPT-UseLooseLoot] [UseLooseLoot] Loaded.
+[Info   :   BepInEx] Loading [GP Coin Unlimited 1.0.0]
+[Info   :ModulePatch] Enabled patch GPCoinLimitPatch_InventoryController
+[Info   :ModulePatch] Enabled patch GPCoinLimitPatch_GClass3387
+[Info   :GP Coin Unlimited] GP Coin Unlimited: loaded!
+[Info   :   BepInEx] Loading [Deminvincibility 2.0.0]
+[Info   :ModulePatch] Enabled patch DestroyBodyPartPatch
+[Info   :ModulePatch] Enabled patch ApplyDamage
+[Info   :ModulePatch] Enabled patch DoFracture
+[Info   :ModulePatch] Enabled patch Kill
+[Info   :   BepInEx] Loading [Janky-HollywoodFX 1.8.4]
+[Info   :Janky-HollywoodFX] Loading Impacts Bundle: F:\test\ZALUPA\BepInEx\plugins\HollywoodFX\hollywoodfx
+[Info   :   BepInEx] Loading [Janky-HollywoodGraphics 1.1.4]
+[Info   :   BepInEx] Loading [Kaeno-TraderScrolling 4.0.0]
+[Info   :   BepInEx] Loading [SPTVRAMCleaner-matsix 1.0.3]
+[Info   :SPTVRAMCleaner-matsix] VRAMCleaner loaded!
+[Info   :ModulePatch] Enabled patch VRAMCleaner
+[Info   :ModulePatch] Enabled patch VRAMCleanerReset
+[Info   :   BepInEx] Loading [MoreBotsAPI 1.1.0]
+[Info   :MoreBotsAPI] Successfully added blackDivLead : 848420 to the excluded difficulties list
+[Info   :MoreBotsAPI] Successfully added blackDivAssault : 848421 to the excluded difficulties list
+[Info   :MoreBotsAPI] Successfully added blackDivBreacher : 848422 to the excluded difficulties list
+[Info   :MoreBotsAPI] Successfully added blackDivSupport : 848423 to the excluded difficulties list
+[Info   :MoreBotsAPI] Successfully added followeruntar : 1170 to the excluded difficulties list
+[Info   :MoreBotsAPI] Successfully added bossuntarlead : 1171 to the excluded difficulties list
+[Info   :MoreBotsAPI] Successfully added followeruntarmarksman : 1172 to the excluded difficulties list
+[Info   :MoreBotsAPI] Successfully added bossuntarofficer : 1173 to the excluded difficulties list
+[Info   :ModulePatch] Enabled patch TarkovInitPatch
+[Info   :ModulePatch] Enabled patch FixRaidEndSpawnTypePatch
+[Info   :ModulePatch] Enabled patch StandartBotBrainActivatePatch
+[Info   :ModulePatch] Enabled patch SuitableFollowersListPatch
+[Info   :ModulePatch] Enabled patch FenceLoyaltyWarnPatch
+[Info   :ModulePatch] Enabled patch NewGamePatch
+[Info   :MoreBotsAPI] Old WildSpawnTypeFromInt converter index: 28 GClass1866`1[EFT.WildSpawnType]
+[Info   :   BepInEx] Loading [MortalStrike 1.0.0]
+[Info   :ModulePatch] Enabled patch GameTimerStartPatch
+[Info   :MortalStrike] [MortalStrike] Plugin loaded! 💣
+[Info   :   BepInEx] Loading [MoxoPixel-MenuOverhaul 1.1.0]
+[Info   :ModulePatch] Enabled patch MenuOverhaulPatch
+[Info   :ModulePatch] Enabled patch PlayerProfileFeaturesPatch
+[Info   :ModulePatch] Enabled patch SetAlphaPatch
+[Info   :ModulePatch] Enabled patch TweenButtonPatch
+[Info   :ModulePatch] Enabled patch OnGameStartedPatch
+[Info   :ModulePatch] Enabled patch OnGameEndedPatch
+[Info   :MoxoPixel-MenuOverhaul] Plugin MoxoPixel-MenuOverhaul version 1.1.0 loaded.
+[Info   :   BepInEx] Loading [PlayerEncumbranceBar 1.2.2]
+[Info   :ModulePatch] Enabled patch HealthParametersShowPatch
+[Info   :   BepInEx] Loading [Batteries Not Included 1.0.3]
+[Info   :ModulePatch] Enabled patch TooltipPatch
+[Info   :ModulePatch] Enabled patch GetHeadLightStatePatch
+[Info   :ModulePatch] Enabled patch SetLightsStatePatch
+[Info   :ModulePatch] Enabled patch UpdateBeamsPatch
+[Info   :ModulePatch] Enabled patch TurnOnPatch
+[Info   :ModulePatch] Enabled patch CaptureSightControllerPatch
+[Info   :ModulePatch] Enabled patch SightsChangePatch
+[Info   :ModulePatch] Enabled patch GameWorldCreatePatch
+[Info   :ModulePatch] Enabled patch TogglableConflictPatch
+[Info   :ModulePatch] Enabled patch NightVisionOnPatch
+[Info   :ModulePatch] Enabled patch ThermalVisionOnPatch
+[Info   :ModulePatch] Enabled patch PlayNightVisionSoundPatch
+[Info   :ModulePatch] Enabled patch PlayThermalVisionSoundPatch
+[Info   :ModulePatch] Enabled patch HeadphoneTemplatePatch
+[Info   :Batteries Not Included PatchManager] Enabled 14 patches
+[Info   :ModulePatch] Enabled patch HeadphonesItemCtorPatch
+[Info   :ModulePatch] Enabled patch SightsItemCtorPatch
+[Info   :   BepInEx] Loading [Batteries Not Included Fika Sync 1.0.2]
+[Info   :RequestHandler] [REQUEST]: /BatteriesNotIncluded/GetConfig
+[Info   :ModulePatch] Enabled patch CorpseInventoryPatch
+[Info   :ModulePatch] Enabled patch DeviceManagerStartPatch
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /BatteriesNotIncluded/GetConfig
+[Info   :ModulePatch] Enabled patch HostExtractPatch
+[Info   :Batteries Not Included] Successfully fetched 197 battery operated devices!
+[Info   :ModulePatch] Enabled patch ClientExtractPatch
+[Info   :ModulePatch] Enabled patch PacketExtractPatch
+[Info   :Batteries Not Included Fika Sync PatchManager] Enabled 5 patches
+[Info   :   BepInEx] Loading [s8 1.0.0]
+[Info   :        s8] [Crc32 Patch] Crc32 Patch Enabled!
+[Info   :        s8] [Crc32 Debug] Crc32 DebugCompare = False
+[Info   :        s8] [Crc32 Patch] Loaded native DLL: F:\test\ZALUPA\BepInEx\plugins\s8_SPT_PatchCRC32\libcrc32_pclmulqdq.dll
+[Info   :        s8] Harmony patches applied for Crc32 (native DLL available).
+[Info   :        s8] 
+ Patching CRC function since 2026
+ Faster, faster, faster! -- Octane
+            EPIC s8
+
+[Info   :   BepInEx] Loading [s8_SPTLoadBundleEvenFaster 1.0.0]
+[Info   :s8_SPTLoadBundleEvenFaster] [Performance] Hooked into 'com.s8.sptpatchcrc32' native accelerator successfully!
+[Info   :s8_SPTLoadBundleEvenFaster] SPT_LoadBundleEvenFaster plugin loaded
+[Info   :   BepInEx] Loading [tradermod.eft 1.0.1]
+[Info   :   BepInEx] Loading [Terkoiz.Freecam 1.4.7]
+[Info   :   BepInEx] Loading [WTT-PackNStrap 2.0.4]
+[Info   :ModulePatch] Enabled patch GetPrioritizedGridsForUnloadedObjectPatch
+[Info   :ModulePatch] Enabled patch MergeContainerWithChildrenPatch
+[Info   :ModulePatch] Enabled patch UnloadWeaponPatch
+[Info   :ModulePatch] Enabled patch FindSlotForPickupPatch
+[Info   :ModulePatch] Enabled patch RegisterCustomItemTypesPatch
+[Info   :   BepInEx] Loading [Trenchfoot-BeltSlot 2.0.4]
+[Info   :ModulePatch] Enabled patch ContainersPanelPatch
+[Info   :ModulePatch] Enabled patch ContainersPanelPatch2
+[Info   :ModulePatch] Enabled patch ComplexStashPanelPatch
+[Info   :ModulePatch] Enabled patch ComplexStashPanelPatch2
+[Info   :ModulePatch] Enabled patch MainMenuControllerClassPatch
+[Info   :ModulePatch] Enabled patch ItemUiContextPatch
+[Info   :ModulePatch] Enabled patch EquipmentBuildsScreenPatch
+[Info   :ModulePatch] Enabled patch InventoryEquipmentPatch
+[Info   :ModulePatch] Enabled patch InventoryScreenPatch
+[Info   :ModulePatch] Enabled patch ItemViewPatch
+[Info   :ModulePatch] Disabled patch GetPrioritizedContainersPatch
+[Info   :ModulePatch] Enabled patch GetPrioritizedContainersPackNStrapPatch
+[Info   :   BepInEx] Loading [TacticalToaster-UNTARGH 3.0.0]
+[Info   :TacticalToaster-UNTARGH] plugin loaded!
+[Info   :ModulePatch] Enabled patch TarkovInitPatch
+[Info   :ModulePatch] Enabled patch BotOwnerActivatePatch
+[Info   :ModulePatch] Enabled patch BotsControllerInitPatch
+[Info   :ModulePatch] Enabled patch UNTARShootGroundWarnPatch
+[Info   :   BepInEx] Loading [WTT-Armory 2.0.4]
+[Info   :ModulePatch] Enabled patch UpdateWeaponVariablesPatch
+[Info   :ModulePatch] Enabled patch ShootPatch
+[Info   :   BepInEx] Loading [WTT-ClientCommonLib 2.0.15]
+[Info   :WTT-ClientCommonLib] [WTT-CommonLib] Fika detected - loading Fika support
+[Info   :WTT-ClientCommonLib] [WTT-ClientCommonLibFika] Subscribed to Fika network events
+[Info   :WTT-ClientCommonLib] [WTT-CommonLib] Fika module loaded and initialized
+[Info   :ModulePatch] Enabled patch FaceCardViewInitPatch
+[Info   :ModulePatch] Enabled patch FaceCardViewTogglePatch
+[Info   :ModulePatch] Enabled patch BoomboxAudioPatch
+[Info   :ModulePatch] Enabled patch OnGameStarted
+[Info   :ModulePatch] Enabled patch ClothingBundleRendererPatch
+[Info   :ModulePatch] Enabled patch HideoutCustomizationIconPatch
+[Info   :ModulePatch] Enabled patch HideoutCustomizationTexturesPatch
+[Info   :RequestHandler] [REQUEST]: /singleplayer/bundles
+[Info   :   BepInEx] Loading [gekos_api 0.4.0]
+[Info   :ModulePatch] Enabled patch GPFix
+[Info   :ModulePatch] Enabled patch MinPriceFix
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillsconfig
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillsconfig
+[Info   :ModulePatch] Enabled patch SkillsMultipliers
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillsconfig
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillsconfig
+[Info   :ModulePatch] Enabled patch SkillBuffMulti1
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillsconfig
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillsconfig
+[Info   :ModulePatch] Enabled patch SkillBuffMulti2
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillsconfig
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillsconfig
+[Info   :ModulePatch] Enabled patch SkillBuffMulti3
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillsconfig
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillsconfig
+[Info   :ModulePatch] Enabled patch SkillBuffMulti4
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillpoints
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillpoints
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillpoints
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillpoints
+[Info   :ModulePatch] Enabled patch SkillButtons
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillpoints
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillpoints
+[Warning:  HarmonyX] AdditionalSkillLevels: You should only patch implemented methods/constructors to avoid issues. Patch the declared method int AbstractSkillClass::get_Level() instead of int AbstractSkillClass::get_Level().
+[Info   :ModulePatch] Enabled patch AdditionalSkillLevels
+[Info   :RequestHandler] [REQUEST]: /server-config-router/skillpoints
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /server-config-router/skillpoints
+[Info   :ModulePatch] Enabled patch AvailableSkillPointsUI
+[Info   :ModulePatch] Enabled patch LevelExpFix
+[Info   :ModulePatch] Enabled patch CalculateExpOnFirstLevelsFix
+[Info   :ModulePatch] Enabled patch BaseProgressFix
+[Info   :ModulePatch] Enabled patch ProgressValueFix
+[Info   :ModulePatch] Enabled patch OnTriggerFix
+[Info   :ModulePatch] Enabled patch Method4Fix
+[Warning:  HarmonyX] LevelProgressFix: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual float AbstractSkillClass::get_LevelProgress() instead of virtual float AbstractSkillClass::get_LevelProgress().
+[Warning:  HarmonyX] LevelProgressFix: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual float AbstractSkillClass::get_LevelProgress() instead of virtual float AbstractSkillClass::get_LevelProgress().
+[Info   :ModulePatch] Enabled patch LevelProgressFix
+[Info   : gekos_api] Geko's API fully loaded!
+[Info   :   BepInEx] Loading [ScavTaskMod 1.0.0]
+[Info   :ScavTaskMod] [ScavTaskMod] Client mode detected — AI layers skipped
+[Info   :   BepInEx] Loading [shwng.FpsCameraStances 1.1.0]
+[Info   :shwng.FpsCameraStances] Camera Rotation Mod has loaded!
+[Info   :ModulePatch] Enabled patch PlayerSpringPatch
+[Info   :ModulePatch] Enabled patch SpringGetPatch
+[Info   :ModulePatch] Enabled patch FOVSliderPatch
+[Info   :ModulePatch] Enabled patch FOVClampPatch
+[Info   :   BepInEx] Loading [SPTClientModExamples 1.0.0]
+[Info   :SPTClientModExamples] plugin loaded!
+[Info   :   BepInEx] Loading [SPTwhiteList 1.0.0]
+[Info   :SPTwhiteList] [SPTwhiteList] pluginDir=F:\test\ZALUPA\BepInEx\plugins
+[Info   :SPTwhiteList] [SPTwhiteList] cfgPath=F:\test\ZALUPA\BepInEx\config\SPTwhiteList.json
+[Info   :ModulePatch] Enabled patch WhitelistTokenPatch
+[Info   :SPTwhiteList] [SPTwhiteList] Token loaded, patch enabled.
+[Info   :   BepInEx] Loading [Tyfon.UIFixes 5.3.6]
+[Info   :Tyfon.UIFixes] Disabling 'Standardize Grid Order'; Incompatible with Fika
+[Info   :Tyfon.UIFixes] Disabling 'Modify Equipped Armor Plates In Raid'; Incompatible with Fika
+[Info   :Tyfon.UIFixes] Fika detected, initializing settings sync
+[Info   :ModulePatch] Enabled patch NetworkTransactionPatch
+[Warning:  HarmonyX] DialogWindowPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual void EFT.UI.DialogWindow<GClass3834>::Update() instead of virtual void EFT.UI.DialogWindow<GClass3834>::Update().
+[Info   :ModulePatch] Enabled patch DialogWindowPatch
+[Info   :ModulePatch] Enabled patch ItemUiContextWindowPatch
+[Info   :ModulePatch] Enabled patch ErrorScreenPatch
+[Info   :ModulePatch] Enabled patch AddOfferPatch
+[Info   :ModulePatch] Enabled patch ClickOutPatch
+[Info   :ModulePatch] Enabled patch ClickOutSplitDialogPatch
+[Info   :ModulePatch] Enabled patch ClickOutItemsListPatch
+[Info   :ModulePatch] Enabled patch ClickOutErrorScreenPatch
+[Info   :ModulePatch] Enabled patch ActuallyReadMessagesPatch
+[Info   :ModulePatch] Enabled patch ReadMessagesTimerPatch
+[Info   :ModulePatch] Enabled patch AttachmentsAreNewPatch
+[Info   :ModulePatch] Enabled patch MenuAttachmentsAreNewPatch
+[Info   :ModulePatch] Enabled patch DialogueViewAttachmentsAreNewPatch
+[Info   :ModulePatch] Enabled patch UpdateCountsAfterTransferPatch
+[Info   :ModulePatch] Enabled patch DialogueViewSelectedPatch
+[Info   :ModulePatch] Enabled patch MenuTaskBarPatch
+[Info   :ModulePatch] Enabled patch SocialNetworkDisplayPatch
+[Info   :ModulePatch] Enabled patch InvokeAttachmentsChangedPatch
+[Info   :ModulePatch] Enabled patch HandleExpiredMessagesPatch
+[Info   :ModulePatch] Enabled patch QuestTooltipPatch
+[Info   :ModulePatch] Enabled patch ArmorTooltipPatch
+[Info   :ModulePatch] Enabled patch SoftArmorTooltipPatch
+[Info   :ModulePatch] Enabled patch FixWeaponBindsDisplayPatch
+[Info   :ModulePatch] Enabled patch BoundItemViewTextPatch
+[Info   :ModulePatch] Enabled patch BindPanelTextPatch
+[Info   :ModulePatch] Enabled patch RotationPatch
+[Info   :ModulePatch] Enabled patch MoneyPatch
+[Info   :ModulePatch] Enabled patch BarterPatch
+[Info   :ModulePatch] Enabled patch LazyLoadPatch
+[Info   :ModulePatch] Enabled patch RestoreHideoutSearchPatch
+[Info   :ModulePatch] Enabled patch SaveHideoutSearchPatch
+[Info   :ModulePatch] Enabled patch CloseHideoutSearchPatch
+[Info   :ModulePatch] Enabled patch FastHideoutSearchPatch
+[Info   :ModulePatch] Enabled patch FixHideoutSearchAgainPatch
+[Info   :ModulePatch] Enabled patch CancelScrollOnMouseWheelPatch
+[Info   :ModulePatch] Enabled patch BlockHideoutEnterPatch
+[Info   :ModulePatch] Enabled patch SelectAreaPatch
+[Info   :ModulePatch] Enabled patch ChangeLevelPatch
+[Info   :ModulePatch] Enabled patch PickInitialLevelPatch
+[Info   :ModulePatch] Enabled patch ClearLevelPatch
+[Info   :ModulePatch] Enabled patch SaveInspectWindowSizePatch
+[Info   :ModulePatch] Enabled patch AddInspectWindowButtonsPatch
+[Info   :ModulePatch] Enabled patch GrowInspectWindowDescriptionPatch
+[Info   :ModulePatch] Enabled patch LeftRightKeybindsPatch
+[Info   :ModulePatch] Enabled patch StatFontSizePatch
+[Info   :ModulePatch] Enabled patch DescriptionFontSizePatch
+[Info   :ModulePatch] Enabled patch CalculateModStatsPatch
+[Info   :ModulePatch] Enabled patch CompareModStatsPatch
+[Info   :ModulePatch] Enabled patch AddShowHideModStatsButtonPatch
+[Info   :ModulePatch] Enabled patch FormatCompactValuesPatch
+[Info   :ModulePatch] Enabled patch FormatFullValuesPatch
+[Info   :ModulePatch] Enabled patch FixDurabilityBarPatch
+[Info   :ModulePatch] Enabled patch HighlightSlotsPatch
+[Info   :ModulePatch] Enabled patch HighlightFilledSlotsPatch
+[Info   :ModulePatch] Enabled patch FixTraderCompatWithPatch
+[Info   :ModulePatch] Enabled patch RemoveDoorActionsPatch
+[Info   :ModulePatch] Enabled patch EnhanceStashScrollingPatch
+[Info   :ModulePatch] Enabled patch EnchanceTraderStashScrollingPatch
+[Info   :ModulePatch] Enabled patch EnhanceFleaScrollingPatch
+[Info   :ModulePatch] Enabled patch EnhanceMailScrollingPatch
+[Info   :ModulePatch] Enabled patch MouseScrollingSpeedPatch
+[Info   :ModulePatch] Enabled patch LightScrollerSpeedPatch
+[Info   :ModulePatch] Enabled patch EnhanceHideoutScrollingPatch
+[Info   :ModulePatch] Enabled patch EnhanceTaskListScrollingPatch
+[Info   :ModulePatch] Enabled patch OpenLastTaskPatch
+[Info   :ModulePatch] Enabled patch ContainerStackPatch
+[Info   :ModulePatch] Enabled patch TopUpStackPatch
+[Info   :ModulePatch] Enabled patch DetectSwapSourceContainerPatch
+[Info   :ModulePatch] Enabled patch CleanupSwapSourceContainerPatch
+[Info   :ModulePatch] Enabled patch ToggleForceSwapPatch
+[Info   :ModulePatch] Enabled patch HighlightSwapSourcePatch
+[Info   :ModulePatch] Enabled patch GridViewAcceptItemPatch
+[Info   :ModulePatch] Enabled patch GridViewCanAcceptSwapPatch
+[Info   :ModulePatch] Enabled patch GridViewForceTrickTargetPatch
+[Info   :ModulePatch] Enabled patch SlotCanAcceptSwapPatch
+[Info   :ModulePatch] Enabled patch DetectGridHighlightPrecheckPatch
+[Info   :ModulePatch] Enabled patch DetectSlotHighlightPrecheckPatch
+[Info   :ModulePatch] Enabled patch WeaponApplyPatch
+[Info   :ModulePatch] Enabled patch DetectFilterForSwapPatch
+[Info   :ModulePatch] Enabled patch FixNoGridErrorPatch
+[Info   :ModulePatch] Enabled patch SwapOperationRaiseEventsPatch
+[Info   :ModulePatch] Enabled patch RememberSwapGridHoverPatch
+[Info   :ModulePatch] Enabled patch InspectWindowUpdateStatsOnSwapPatch
+[Info   :ModulePatch] Enabled patch FixAddModFirearmOperationPatch
+[Info   :ModulePatch] Enabled patch HideScaryTooltipPatch
+[Info   :ModulePatch] Enabled patch ScavInventorySplitPatch
+[Info   :ModulePatch] Enabled patch SyncStashScrollPatch
+[Info   :ModulePatch] Enabled patch SyncOfferStashScrollPatch
+[Info   :ModulePatch] Enabled patch TransferConfirmPatch
+[Info   :ModulePatch] Enabled patch DetectWeaponPresetCloseTypePatch
+[Info   :ModulePatch] Enabled patch ConfirmDiscardWeaponPresetChangesPatch
+[Info   :ModulePatch] Enabled patch SavePresetPatch
+[Info   :ModulePatch] Enabled patch InstantSavePresetPatch
+[Info   :ModulePatch] Enabled patch NoUnsavedChangesPatch
+[Info   :ModulePatch] Enabled patch EditBuildScreenZoomPatch
+[Info   :ModulePatch] Enabled patch WeaponModdingScreenZoomPatch
+[Info   :ModulePatch] Enabled patch NoInventoryZoomPatch
+[Info   :ModulePatch] Enabled patch MoveTaskbarPatch
+[Info   :ModulePatch] Enabled patch DoNotToggleOnMouseOverPatch
+[Info   :ModulePatch] Enabled patch ToggleOnOpenPatch
+[Info   :ModulePatch] Enabled patch DropdownHeightPatch
+[Info   :ModulePatch] Enabled patch OfferViewTweaksPatch
+[Info   :ModulePatch] Enabled patch SearchFilterPatch
+[Info   :ModulePatch] Enabled patch SearchPatch
+[Info   :ModulePatch] Enabled patch SearchKeyPatch
+[Info   :ModulePatch] Enabled patch SearchKeyHandbookPatch
+[Info   :ModulePatch] Enabled patch RagfairScreenShowPatch
+[Info   :ModulePatch] Enabled patch OfferViewListCategoryPickedPatch
+[Info   :ModulePatch] Enabled patch OfferViewListDoneLoadingPatch
+[Info   :ModulePatch] Enabled patch ChangedViewListTypePatch
+[Info   :ModulePatch] Enabled patch PlaceOfferClickPatch
+[Info   :ModulePatch] Enabled patch ClosePatch
+[Info   :ModulePatch] Enabled patch AutopopulatePricesPatch
+[Info   :ModulePatch] Enabled patch SetRequirementPatch
+[Info   :ModulePatch] Enabled patch BulkTogglePatch
+[Info   :ModulePatch] Enabled patch MultipleStacksPatch
+[Info   :ModulePatch] Enabled patch AssortUnlocksPatch
+[Info   :ModulePatch] Enabled patch AutofillQuestItemsPatch
+[Info   :ModulePatch] Enabled patch ContextMenuNamesPatch
+[Info   :ModulePatch] Enabled patch PositionSubMenuPatch
+[Info   :ModulePatch] Enabled patch PositionInsuranceSubMenuPatch
+[Info   :ModulePatch] Enabled patch DeclareSubInteractionsInventoryPatch
+[Info   :ModulePatch] Enabled patch CreateSubInteractionsInventoryPatch
+[Info   :ModulePatch] Enabled patch DeclareSubInteractionsTradingPatch
+[Info   :ModulePatch] Enabled patch CreateSubInteractionsTradingPatch
+[Info   :ModulePatch] Enabled patch SniffInteractionButtonCreationPatch
+[Info   :ModulePatch] Enabled patch ChangeInteractionButtonCreationPatch
+[Info   :ModulePatch] Enabled patch EnableInsureInnerItemsPatch
+[Info   :ModulePatch] Enabled patch DisableInsureOnUninsurable
+[Info   :ModulePatch] Enabled patch DisableLoadPresetOnBulletsPatch
+[Info   :ModulePatch] Enabled patch EmptyModSlotMenuPatch
+[Info   :ModulePatch] Enabled patch EmptyModSlotMenuRemovePatch
+[Info   :ModulePatch] Enabled patch EmptySlotMenuPatch
+[Info   :ModulePatch] Enabled patch EmptySlotMenuRemovePatch
+[Info   :ModulePatch] Enabled patch OpenWhileSearchingPatch
+[Info   :ModulePatch] Enabled patch ModdingItemContextPatch
+[Info   :ModulePatch] Enabled patch ContextMenuFontSizePatch
+[Info   :ModulePatch] Enabled patch GetBuySellTabsPatch
+[Info   :ModulePatch] Enabled patch SwitchOnClickPatch
+[Info   :ModulePatch] Enabled patch RefreshOnSwitchPatch
+[Info   :ModulePatch] Enabled patch RestoreTraderPatch
+[Info   :ModulePatch] Enabled patch RestoreTabPatch
+[Info   :ModulePatch] Enabled patch RememberTraderAndTabPatch
+[Info   :ModulePatch] Enabled patch RememberAutoselectPatch
+[Info   :ModulePatch] Enabled patch RestoreAutoselectPatch
+[Info   :ModulePatch] Enabled patch SniffChatPanelClosePatch
+[Info   :ModulePatch] Enabled patch ReopenMessagesPatch
+[Info   :ModulePatch] Enabled patch FocusTradeQuantityPatch
+[Info   :ModulePatch] Enabled patch SelectAllPatch
+[Info   :ModulePatch] Enabled patch RememberRepairerPatch
+[Info   :ModulePatch] Enabled patch DefaultMaxRepairPatch
+[Info   :ModulePatch] Enabled patch GridWindowButtonsPatch
+[Info   :ModulePatch] Enabled patch LoadMagPresetsPatch
+[Info   :ModulePatch] Enabled patch RemoveDefaultPresetNamePatch
+[Info   :ModulePatch] Enabled patch RequirePresetNamePatch
+[Info   :ModulePatch] Enabled patch WindowOpenPatch
+[Info   :ModulePatch] Enabled patch WindowOpenPatch
+[Info   :ModulePatch] Enabled patch WindowClosePatch
+[Info   :ModulePatch] Enabled patch InventoryShowPatch
+[Info   :ModulePatch] Enabled patch InventoryClosePatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepWindowOnScreenPatch
+[Info   :ModulePatch] Enabled patch KeepTopOnScreenPatch
+[Info   :ModulePatch] Enabled patch BorderPrioritizedWindow
+[Info   :ModulePatch] Enabled patch ItemUiContextPatch
+[Info   :ModulePatch] Enabled patch HideoutItemViewRegisterContextPatch
+[Info   :ModulePatch] Enabled patch TradingPanelRegisterContextPatch
+[Info   :ModulePatch] Enabled patch TradingPanelUnregisterContextPatch
+[Info   :ModulePatch] Enabled patch SelectCurrentContextPatch
+[Info   :ModulePatch] Enabled patch DeselectCurrentContextPatch
+[Info   :ModulePatch] Enabled patch AutoOpenPatch
+[Info   :ModulePatch] Enabled patch DefaultBindPatch
+[Info   :ModulePatch] Enabled patch EnableContextMenuPatch
+[Info   :ModulePatch] Enabled patch SlowLoadingPatch
+[Info   :ModulePatch] Enabled patch InitializeCommonUIPatch
+[Info   :ModulePatch] Enabled patch InitializeMenuUIPatch
+[Info   :ModulePatch] Enabled patch SelectOnMouseDownPatch
+[Info   :ModulePatch] Enabled patch DeselectOnTradingItemViewClickPatch
+[Info   :ModulePatch] Enabled patch HandleItemViewInitPatch
+[Info   :ModulePatch] Enabled patch HandleItemViewKillPatch
+[Info   :ModulePatch] Enabled patch BeginDragPatch
+[Info   :ModulePatch] Enabled patch EndDragPatch
+[Info   :ModulePatch] Enabled patch DeselectOnLockPatch
+[Info   :ModulePatch] Enabled patch SelectAllPatch
+[Info   :ModulePatch] Enabled patch DisableSplitPatch
+[Info   :ModulePatch] Enabled patch DisableSplitTargetPatch
+[Info   :ModulePatch] Enabled patch DisableMagnifyPatch
+[Info   :ModulePatch] Enabled patch ItemViewClickPatch
+[Info   :ModulePatch] Enabled patch ContextActionsPatch
+[Info   :ModulePatch] Enabled patch MoreContextActionsPatch
+[Info   :ModulePatch] Enabled patch ContextActionsInteractivePatch
+[Info   :ModulePatch] Enabled patch AddOfferPatch
+[Info   :ModulePatch] Enabled patch StopProcessesPatch
+[Info   :ModulePatch] Enabled patch GridViewCanAcceptPatch
+[Info   :ModulePatch] Enabled patch GridViewAcceptItemPatch
+[Info   :ModulePatch] Enabled patch GridViewPickTargetPatch
+[Info   :ModulePatch] Enabled patch GridViewDisableHighlightPatch
+[Info   :ModulePatch] Enabled patch GridViewClearTooltipPatch
+[Info   :ModulePatch] Enabled patch SlotViewCanAcceptPatch
+[Info   :ModulePatch] Enabled patch SlotViewAcceptItemPatch
+[Info   :ModulePatch] Enabled patch LoadMagazinePatch
+[Info   :ModulePatch] Enabled patch LoadWeaponWithAmmoPatch
+[Info   :ModulePatch] Enabled patch LoadMultiBarrelWeaponPatch
+[Info   :ModulePatch] Enabled patch TradingTableCanAcceptPatch
+[Info   :ModulePatch] Enabled patch TradingTableAcceptItemPatch
+[Info   :ModulePatch] Enabled patch TradingTableGetHighlightColorPatch
+[Info   :ModulePatch] Enabled patch FindSpotKeepRotationPatch
+[Info   :ModulePatch] Enabled patch FindPlaceToPutPatch
+[Info   :ModulePatch] Enabled patch AdjustQuickFindFlagsPatch
+[Info   :ModulePatch] Enabled patch ReorderContainersPatch
+[Info   :ModulePatch] Enabled patch AllowFindSameSpotPatch
+[Info   :ModulePatch] Enabled patch ReloadCylinderPatch
+[Info   :ModulePatch] Enabled patch FindCompatibleAmmoPatch
+[Info   :ModulePatch] Enabled patch CheckItemFilterPatch
+[Info   :ModulePatch] Enabled patch LoadAmmoPatch
+[Info   :ModulePatch] Enabled patch FilterMagPresetsPatch
+[Info   :ModulePatch] Enabled patch LoadPresetPatch
+[Info   :ModulePatch] Enabled patch TradingPlayerPatch
+[Info   :ModulePatch] Enabled patch TransferPlayerPatch
+[Info   :ModulePatch] Enabled patch UnloadScavTransferPatch
+[Info   :ModulePatch] Enabled patch NoScavStashPatch
+[Info   :ModulePatch] Enabled patch ExecutePossibleActionSimulateFalsePatch
+[Info   :ModulePatch] Enabled patch BlockPartialTransfersPatch
+[Info   :ModulePatch] Enabled patch PutToolsBackPatch
+[Info   :ModulePatch] Enabled patch RebindFoodMedsPatch
+[Info   :ModulePatch] Enabled patch RebindGrenadesPatch
+[Info   :ModulePatch] Enabled patch AddTwoKeyStatesPatch
+[Info   :ModulePatch] Enabled patch AddOneKeyStatesPatch
+[Info   :ModulePatch] Enabled patch UpdateInputPatch
+[Info   :ModulePatch] Enabled patch ForceTacticalModePatch
+[Info   :ModulePatch] Enabled patch ToggleInteractionPatch
+[Info   :ModulePatch] Enabled patch ReorderGridsPatch
+[Info   :ModulePatch] Enabled patch MoneyPanelPatch
+[Info   :ModulePatch] Enabled patch MoneyPanelTMPTextPatch
+[Info   :ModulePatch] Enabled patch HandbookWorkaroundPatch
+[Info   :ModulePatch] Enabled patch LinkedSlotSearchPatch
+[Info   :ModulePatch] Enabled patch MyOffersPatch
+[Info   :ModulePatch] Enabled patch CreateButtonPatch
+[Info   :ModulePatch] Enabled patch ShowButtonPatch
+[Info   :ModulePatch] Enabled patch FilterPanelPatch
+[Info   :ModulePatch] Enabled patch StackFirstPatch
+[Info   :ModulePatch] Enabled patch ReloadInPlacePatch
+[Info   :ModulePatch] Enabled patch ReloadInPlaceFindMagPatch
+[Info   :ModulePatch] Enabled patch ReloadInPlaceFindSpotPatch
+[Info   :ModulePatch] Enabled patch AlwaysSwapPatch
+[Info   :ModulePatch] Enabled patch SwapIfNoSpacePatch
+[Info   :ModulePatch] Enabled patch IconsPatch
+[Info   :ModulePatch] Enabled patch ItemViewScalePatch
+[Info   :ModulePatch] Enabled patch ItemUpdateInfoPatch
+[Info   :ModulePatch] Enabled patch HideItemViewStatsPatch
+[Info   :ModulePatch] Enabled patch OverrideGridItemViewTooltipPatch
+[Info   :ModulePatch] Enabled patch NoPointerEnterPatch
+[Info   :ModulePatch] Enabled patch NoPointerExitPatch
+[Info   :ModulePatch] Enabled patch NoPointerClickPatch
+[Info   :ModulePatch] Enabled patch RagfairScreenShowPatch
+[Info   :ModulePatch] Enabled patch OnPurchaseClickedUpdatePatch
+[Info   :ModulePatch] Enabled patch UnlockCursorPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch OnDragEventPatch
+[Info   :ModulePatch] Enabled patch HideoutCameraPatch
+[Info   :ModulePatch] Enabled patch HideoutZoomPatch
+[Info   :ModulePatch] Enabled patch LastResizePatch
+[Info   :ModulePatch] Enabled patch MoveBeforeResizePatch
+[Info   :ModulePatch] Enabled patch MoveBeforeUnfoldPatch
+[Info   :ModulePatch] Enabled patch MoveOperationRollbackPatch
+[Info   :ModulePatch] Enabled patch SwapOperationRollbackPatch
+[Info   :ModulePatch] Enabled patch MoveBeforeNetworkTransactionPatch
+[Info   :ModulePatch] Enabled patch SwapModsPatch
+[Info   :ModulePatch] Enabled patch ModEquippedPatch
+[Info   :ModulePatch] Enabled patch InspectLockedPatch
+[Info   :ModulePatch] Enabled patch MoveCanExecutePatch
+[Info   :ModulePatch] Enabled patch ModCanBeMovedPatch
+[Info   :ModulePatch] Enabled patch CanDetachPatch
+[Info   :ModulePatch] Enabled patch CanApplyPatch
+[Info   :ModulePatch] Enabled patch LockedStatePatch
+[Info   :ModulePatch] Enabled patch ArmorSlotAcceptRaidPatch
+[Info   :ModulePatch] Enabled patch ModRaidModdablePatch
+[Info   :ModulePatch] Enabled patch EmptyVitalPartsPatch
+[Info   :ModulePatch] Enabled patch InAssemblePatch
+[Info   :ModulePatch] Enabled patch LongerFullIdPatch
+[Info   :ModulePatch] Enabled patch DisassembleAllPatch
+[Info   :ModulePatch] Enabled patch OnEnterPatch
+[Info   :ModulePatch] Enabled patch TagsOverCaptionsPatch
+[Info   :ModulePatch] Enabled patch AddTagNewItemPatch
+[Info   :ModulePatch] Enabled patch AddTagParsedItemPatch
+[Info   :ModulePatch] Enabled patch TagAdditionalTypePatch
+[Info   :ModulePatch] Enabled patch KeepTagsLocalPatch
+[Info   :ModulePatch] Enabled patch BindableTacticalPatch
+[Info   :ModulePatch] Enabled patch ReachableTacticalPatch
+[Info   :ModulePatch] Enabled patch UseTacticalPatch
+[Info   :ModulePatch] Enabled patch BindTacticalPatch
+[Info   :ModulePatch] Enabled patch UnbindTacticalPatch
+[Info   :ModulePatch] Enabled patch InitQuickBindsPatch
+[Info   :ModulePatch] Enabled patch OperationQueuePatch
+[Info   :ModulePatch] Enabled patch IntSliderPatch
+[Info   :ModulePatch] Enabled patch StepSliderPatch
+[Info   :ModulePatch] Enabled patch ModdingScreenListenOpenPatch
+[Info   :ModulePatch] Enabled patch ModdingScreenListenClosePatch
+[Info   :ModulePatch] Enabled patch SlotViewClickOpenPatch
+[Info   :ModulePatch] Enabled patch ItemSelectionCellClickOpenPatch
+[Info   :ModulePatch] Enabled patch EmptySlotRemovePointerDownPatch
+[Info   :ModulePatch] Enabled patch EmptySlotInteractablePatch
+[Info   :ModulePatch] Enabled patch EmptySlotClickPatch
+[Info   :ModulePatch] Enabled patch BackgroundClickClosePatch
+[Info   :ModulePatch] Enabled patch FixBlockedItemSwapPatch
+[Info   :ModulePatch] Enabled patch FixPlayerInspectPatch
+[Info   :ModulePatch] Enabled patch BigButtonPatch
+[Info   :ModulePatch] Enabled patch DebounceStatusNotifyPatch
+[Info   :ModulePatch] Enabled patch ModifyUnsearchedContainerPatch
+[Info   :ModulePatch] Enabled patch StashPanelAdPatch
+[Info   :ModulePatch] Enabled patch HideoutStashAdPatch
+[Info   :ModulePatch] Enabled patch PaymentSlotsPatch
+[Info   :ModulePatch] Enabled patch RequisiteChangePatch
+[Info   :ModulePatch] Enabled patch ClosePatch
+[Info   :ModulePatch] Enabled patch CreateIconsPatch
+[Info   :ModulePatch] Enabled patch ShowIconsPatch
+[Info   :ModulePatch] Enabled patch QuestListItemPatch
+[Info   :ModulePatch] Enabled patch HandoverPatch
+[Info   :ModulePatch] Enabled patch BuildsCategoriesPanelPatch
+[Info   :ModulePatch] Enabled patch StockBuildsCheckboxPatch
+[Info   :ModulePatch] Enabled patch IsInWishlistPatch
+[Info   :ModulePatch] Enabled patch AreaDatasPatch
+[Info   :ModulePatch] Enabled patch RequirementsPatch
+[Info   :ModulePatch] Enabled patch ItemSpecificationWishlistPatch
+[Info   :ModulePatch] Enabled patch TraderPurchaseWishlistItemPatch
+[Info   :ModulePatch] Enabled patch GridItemViewWishlistPatch
+[Info   :ModulePatch] Enabled patch FocusStashSearchPatch
+[Info   :ModulePatch] Enabled patch OpenSearchPatch
+[Info   :ModulePatch] Enabled patch AddSearchStashPatch
+[Info   :ModulePatch] Enabled patch PositionSearchStashPatch
+[Info   :ModulePatch] Enabled patch InternalReloadApplyItemPatch
+[Info   :ModulePatch] Enabled patch IsLoadAmmoByTypePatch
+[Info   :ModulePatch] Enabled patch AddLoadAmmoPatch
+[Info   :ModulePatch] Enabled patch LoadAmmoIsActivePatch
+[Info   :ModulePatch] Enabled patch UnloadChamberTooPatch
+[Info   :ModulePatch] Enabled patch LoadBarrelPatch
+[Info   :ModulePatch] Enabled patch LoadAmmoIsActivePatch
+[Info   :ModulePatch] Enabled patch LoadAmmoIsInteractivePatch
+[Info   :ModulePatch] Enabled patch LoadAmmoSubInteractionsPatch
+[Info   :ModulePatch] Enabled patch UnloadAmmoPatch
+[Info   :ModulePatch] Enabled patch CylinderMagApplyPatch
+[Info   :ModulePatch] Enabled patch CylinderMagApplyWithoutRestrictionsPatch
+[Info   :ModulePatch] Enabled patch LoadCylinderPatch
+[Info   :ModulePatch] Enabled patch UnloadCylinderPatch
+[Info   :ModulePatch] Enabled patch IsInteractivePatch
+[Info   :ModulePatch] Enabled patch LoadAmmoSubInteractionsPatch
+[Info   :ModulePatch] Enabled patch DisablePresetPatch
+[Info   :ModulePatch] Enabled patch SuppressAlphanumericCommandsPatch
+[Info   :ModulePatch] Enabled patch TransferMergePatch
+[Info   :ModulePatch] Enabled patch NoFitOutlinePatch
+[Info   :ModulePatch] Enabled patch HideNoFitOutlinePatch
+[Info   :ModulePatch] Enabled patch SilencePixelPerfectSpriteScalerPatch
+[Info   :ModulePatch] Enabled patch AimPatch
+[Info   :ModulePatch] Enabled patch ReloadPatch
+[Info   :ModulePatch] Enabled patch SprintPatch
+[Info   :ModulePatch] Enabled patch PreSprintPatch
+[Info   :ModulePatch] Enabled patch BreathPatch
+[Info   :ModulePatch] Enabled patch MapKeyBindingsPatch
+[Info   :ModulePatch] Enabled patch CompassGogglesPatch
+[Info   :ModulePatch] Enabled patch FixGridPrepareItemsPatch
+[Info   :ModulePatch] Enabled patch FixTraderFiltersPatch
+[Info   :ModulePatch] Enabled patch InitPreviewPatch
+[Info   :ModulePatch] Enabled patch KillPreviewPatch
+[Info   :ModulePatch] Enabled patch RotateKeybindPatch
+[Info   :   BepInEx] Loading [Content Backport - Prestiges 1.0.1]
+[Info   :ModulePatch] Enabled patch PrestigeAnimationPlayerPatch
+[Info   :   BepInEx] Loading [Level Endurance and Strength 1.0.0]
+[Message:   BepInEx] Chainloader startup complete
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+UnloadTime: 0.559000 ms
+Applying Acoustic Propagation Settings: [acoustic model = AcousticRayTracing], [diffraction = True], 
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD
+Meta XR Audio Native Interface initialized with Unity plugin
+Setting spatial voice limit: 196
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+Skipped command line argument:F:\test\ZALUPA\EscapeFromTarkov.exe
+Skipped command line argument:-force-gfx-jobs
+Skipped command line argument:native
+key:token value:699fa6b3027f797cb07482ea
+key:config value:{'BackendUrl':'https://127.0.0.1:6969','MatchingVersion':'live','Version':'live'}
+PlayerLoopSystems:
+UnityEngine.PlayerLoop.TimeUpdate
+	UnityEngine.PlayerLoop.TimeUpdate+WaitForLastPresentationAndUpdateTime
+UnityEngine.PlayerLoop.Initialization
+	UnityEngine.PlayerLoop.Initialization+ProfilerStartFrame
+	UnityEngine.PlayerLoop.Initialization+UpdateCameraMotionVectors
+	UnityEngine.PlayerLoop.Initialization+DirectorSampleTime
+	UnityEngine.PlayerLoop.Initialization+AsyncUploadTimeSlicedUpdate
+	UnityEngine.PlayerLoop.Initialization+SynchronizeInputs
+	UnityEngine.PlayerLoop.Initialization+SynchronizeState
+	UnityEngine.PlayerLoop.Initialization+XREarlyUpdate
+UnityEngine.PlayerLoop.EarlyUpdate
+	CustomPlayerLoopSystem.FrameCounter
+	CustomPlayerLoopSystem.StartOfFrame
+	UnityEngine.PlayerLoop.EarlyUpdate+PollPlayerConnection
+	UnityEngine.PlayerLoop.EarlyUpdate+GpuTimestamp
+	UnityEngine.PlayerLoop.EarlyUpdate+AnalyticsCoreStatsUpdate
+	UnityEngine.PlayerLoop.EarlyUpdate+UnityWebRequestUpdate
+	UnityEngine.PlayerLoop.EarlyUpdate+ExecuteMainThreadJobs
+	UnityEngine.PlayerLoop.EarlyUpdate+ProcessMouseInWindow
+	UnityEngine.PlayerLoop.EarlyUpdate+ClearIntermediateRenderers
+	UnityEngine.PlayerLoop.EarlyUpdate+ClearLines
+	UnityEngine.PlayerLoop.EarlyUpdate+PresentBeforeUpdate
+	UnityEngine.PlayerLoop.EarlyUpdate+ResetFrameStatsAfterPresent
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateAsyncInstantiate
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateAsyncReadbackManager
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateStreamingManager
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateTextureStreamingManager
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdatePreloading
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateContentLoading
+	UnityEngine.PlayerLoop.EarlyUpdate+RendererNotifyInvisible
+	UnityEngine.PlayerLoop.EarlyUpdate+PlayerCleanupCachedData
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateMainGameViewRect
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateCanvasRectTransform
+	UnityEngine.PlayerLoop.EarlyUpdate+XRUpdate
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateInputManager
+	UnityEngine.PlayerLoop.EarlyUpdate+ProcessRemoteInput
+	UnityEngine.PlayerLoop.EarlyUpdate+ScriptRunDelayedStartupFrame
+	UnityEngine.PlayerLoop.EarlyUpdate+UpdateKinect
+	UnityEngine.PlayerLoop.EarlyUpdate+DeliverIosPlatformEvents
+	UnityEngine.PlayerLoop.EarlyUpdate+ARCoreUpdate
+	UnityEngine.PlayerLoop.EarlyUpdate+DispatchEventQueueEvents
+	UnityEngine.PlayerLoop.EarlyUpdate+Physics2DEarlyUpdate
+	UnityEngine.PlayerLoop.EarlyUpdate+PhysicsResetInterpolatedTransformPosition
+	UnityEngine.PlayerLoop.EarlyUpdate+SpriteAtlasManagerUpdate
+	UnityEngine.PlayerLoop.EarlyUpdate+PerformanceAnalyticsUpdate
+UnityEngine.PlayerLoop.FixedUpdate
+	CustomPlayerLoopSystem.StartOfFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+ClearLines
+	UnityEngine.PlayerLoop.FixedUpdate+NewInputFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+DirectorFixedSampleTime
+	UnityEngine.PlayerLoop.FixedUpdate+AudioFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+ScriptRunBehaviourFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+DirectorFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+LegacyFixedAnimationUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+XRFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+PhysicsFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+Physics2DFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+PhysicsClothFixedUpdate
+	UnityEngine.PlayerLoop.FixedUpdate+DirectorFixedUpdatePostPhysics
+	UnityEngine.PlayerLoop.FixedUpdate+ScriptRunDelayedFixedFrameRate
+	CustomPlayerLoopSystem.EndOfFixedUpdate
+UnityEngine.PlayerLoop.PreUpdate
+	UnityEngine.PlayerLoop.PreUpdate+PhysicsUpdate
+	UnityEngine.PlayerLoop.PreUpdate+Physics2DUpdate
+	UnityEngine.PlayerLoop.PreUpdate+PhysicsClothUpdate
+	UnityEngine.PlayerLoop.PreUpdate+CheckTexFieldInput
+	UnityEngine.PlayerLoop.PreUpdate+IMGUISendQueuedEvents
+	UnityEngine.PlayerLoop.PreUpdate+NewInputUpdate
+	UnityEngine.PlayerLoop.PreUpdate+SendMouseEvents
+	UnityEngine.PlayerLoop.PreUpdate+AIUpdate
+	UnityEngine.PlayerLoop.PreUpdate+WindUpdate
+	UnityEngine.PlayerLoop.PreUpdate+UpdateVideo
+	CustomPlayerLoopSystem.GlobalEventsClear
+	CustomPlayerLoopSystem.GlobalEventsApply
+UnityEngine.PlayerLoop.Update
+	CustomPlayerLoopSystem.StartOfUpdate
+	UnityEngine.PlayerLoop.Update+ScriptRunBehaviourUpdate
+	UnityEngine.PlayerLoop.Update+ScriptRunDelayedDynamicFrameRate
+	UnityEngine.PlayerLoop.Update+ScriptRunDelayedTasks
+	UnityEngine.PlayerLoop.Update+DirectorUpdate
+	CustomPlayerLoopSystem.EndOfUpdate
+UnityEngine.PlayerLoop.PreLateUpdate
+	UnityEngine.PlayerLoop.PreLateUpdate+AIUpdatePostScript
+	UnityEngine.PlayerLoop.PreLateUpdate+DirectorUpdateAnimationBegin
+	UnityEngine.PlayerLoop.PreLateUpdate+LegacyAnimationUpdate
+	UnityEngine.PlayerLoop.PreLateUpdate+DirectorUpdateAnimationEnd
+	UnityEngine.PlayerLoop.PreLateUpdate+DirectorDeferredEvaluate
+	UnityEngine.PlayerLoop.PreLateUpdate+UIElementsUpdatePanels
+	UnityEngine.PlayerLoop.PreLateUpdate+EndGraphicsJobsAfterScriptUpdate
+	UnityEngine.PlayerLoop.PreLateUpdate+ConstraintManagerUpdate
+	UnityEngine.PlayerLoop.PreLateUpdate+ParticleSystemBeginUpdateAll
+	UnityEngine.PlayerLoop.PreLateUpdate+Physics2DLateUpdate
+	UnityEngine.PlayerLoop.PreLateUpdate+PhysicsLateUpdate
+	UnityEngine.PlayerLoop.PreLateUpdate+ScriptRunBehaviourLateUpdate
+UnityEngine.PlayerLoop.PostLateUpdate
+	CustomPlayerLoopSystem.StartOfPostLateUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+PlayerSendFrameStarted
+	UnityEngine.PlayerLoop.PostLateUpdate+DirectorLateUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+ScriptRunDelayedDynamicFrameRate
+	UnityEngine.PlayerLoop.PostLateUpdate+PhysicsSkinnedClothBeginUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateRectTransform
+	UnityEngine.PlayerLoop.PostLateUpdate+PlayerUpdateCanvases
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateAudio
+	UnityEngine.PlayerLoop.PostLateUpdate+VFXUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+ParticleSystemEndUpdateAll
+	UnityEngine.PlayerLoop.PostLateUpdate+EndGraphicsJobsAfterScriptLateUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateCustomRenderTextures
+	UnityEngine.PlayerLoop.PostLateUpdate+XRPostLateUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateAllRenderers
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateLightProbeProxyVolumes
+	UnityEngine.PlayerLoop.PostLateUpdate+EnlightenRuntimeUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateAllSkinnedMeshes
+	UnityEngine.PlayerLoop.PostLateUpdate+ProcessWebSendMessages
+	UnityEngine.PlayerLoop.PostLateUpdate+SortingGroupsUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateVideoTextures
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateVideo
+	UnityEngine.PlayerLoop.PostLateUpdate+DirectorRenderImage
+	UnityEngine.PlayerLoop.PostLateUpdate+PlayerEmitCanvasGeometry
+	UnityEngine.PlayerLoop.PostLateUpdate+PlayerRenderUIEBatchModeOffscreen
+	UnityEngine.PlayerLoop.PostLateUpdate+PhysicsSkinnedClothFinishUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+FinishFrameRendering
+	UnityEngine.PlayerLoop.PostLateUpdate+BatchModeUpdate
+	UnityEngine.PlayerLoop.PostLateUpdate+PlayerSendFrameComplete
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateCaptureScreenshot
+	UnityEngine.PlayerLoop.PostLateUpdate+PresentAfterDraw
+	UnityEngine.PlayerLoop.PostLateUpdate+ClearImmediateRenderers
+	UnityEngine.PlayerLoop.PostLateUpdate+PlayerSendFramePostPresent
+	UnityEngine.PlayerLoop.PostLateUpdate+UpdateResolution
+	UnityEngine.PlayerLoop.PostLateUpdate+InputEndFrame
+	UnityEngine.PlayerLoop.PostLateUpdate+TriggerEndOfFrameCallbacks
+	UnityEngine.PlayerLoop.PostLateUpdate+GUIClearEvents
+	UnityEngine.PlayerLoop.PostLateUpdate+ShaderHandleErrors
+	UnityEngine.PlayerLoop.PostLateUpdate+ResetInputAxis
+	UnityEngine.PlayerLoop.PostLateUpdate+ThreadedLoadingDebug
+	UnityEngine.PlayerLoop.PostLateUpdate+ProfilerSynchronizeStats
+	UnityEngine.PlayerLoop.PostLateUpdate+MemoryFrameMaintenance
+	UnityEngine.PlayerLoop.PostLateUpdate+ExecuteGameCenterCallbacks
+	UnityEngine.PlayerLoop.PostLateUpdate+XRPreEndFrame
+	UnityEngine.PlayerLoop.PostLateUpdate+ProfilerEndFrame
+	UnityEngine.PlayerLoop.PostLateUpdate+GraphicsWarmupPreloadedShaders
+	UnityEngine.PlayerLoop.PostLateUpdate+ObjectDispatcherPostLateUpdate
+	CustomPlayerLoopSystem.EndOfFrame
+No Meta XR Audio Room found, setting default room
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioWwise
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/MetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD.dll
+Fallback handler could not load library F:/test/ZALUPA/EscapeFromTarkov_Data/MonoBleedingEdge/libMetaXRAudioFMOD
+Meta XR Audio Native Interface initialized with Unity plugin
+Unloading 7 Unused Serialized files (Serialized files now loaded: 4)
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+UnloadTime: 0.241900 ms
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 9136.
+Total: 138.263200 ms (FindLiveObjects: 0.336000 ms CreateObjectMapping: 0.150200 ms MarkObjects: 137.738000 ms  DeleteObjects: 0.038700 ms)
+
+[Debug  :ModulePatch] output Nlog: Info : Current DSP buffer length: 1024, buffers num: 4
+Skipped command line argument:F:\test\ZALUPA\EscapeFromTarkov.exe
+Skipped command line argument:-force-gfx-jobs
+Skipped command line argument:native
+key:token value:699fa6b3027f797cb07482ea
+key:config value:{'BackendUrl':'https://127.0.0.1:6969','MatchingVersion':'live','Version':'live'}
+[Debug  :ModulePatch] output Nlog: Info : Application awaken, updateQueue:'Update'
+[Debug  :ModulePatch] output Nlog: Info : Assert.raiseExceptions:'True'
+[Debug  :ModulePatch] output Nlog: Info : Application obfuscation succeed.
+[Debug  :ModulePatch] output Nlog: Info : driveType:SSD swapDriveType:Unknown
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST]: /singleplayer/release
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/release
+[Info   :RequestHandler] [REQUEST]: /singleplayer/moddedTraders
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/moddedTraders
+[Info   :RequestHandler] [REQUEST]: /singleplayer/enableBSGlogging
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/enableBSGlogging
+[Info   :RequestHandler] [REQUEST]: /skillsExtended/GetKeys
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /skillsExtended/GetKeys
+[Info   :RequestHandler] [REQUEST]: /skillsExtended/GetSkillsConfig
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /skillsExtended/GetSkillsConfig
+The referenced script (LPComponents) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script (LPComponents) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'DoorLock') is missing!
+[Info   :Quests Extended] F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests
+[Info   :Quests Extended] Getting quests from file: F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests\CHAPTER1_QECL.json
+[Info   :Quests Extended] Getting quests from file: F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests\CHAPTER1_QEGL.json
+[Info   :Quests Extended] Getting quests from file: F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests\GLCOMBAT_QE.json
+[Info   :Quests Extended] Getting quests from file: F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests\GLMENTAL_QE.json
+[Info   :Quests Extended] Getting quests from file: F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests\GLPHYSICAL_QE.json
+[Info   :Quests Extended] Getting quests from file: F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests\GLPRACTICAL_QE.json
+[Info   :Quests Extended] Getting quests from file: F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests\QuestsWithBlockedMessagesHolder_QE.json
+[Info   :Quests Extended] Getting quests from file: F:\test\ZALUPA\BepInEx\plugins\QuestsExtended\Quests\VTQ_QE.json
+[Info   :Quests Extended] Loaded 90 custom quests
+[Info   :ModulePatch] Enabled patch TraderScrollingPatch
+[Info   :ModulePatch] Enabled patch PlayerCardPatch
+[Info   :Batteries Not Included] Found external mod: Fika.Core 2.2.3
+[Info   :Batteries Not Included] Found external mod: Batteries Not Included Fika Sync 1.0.2
+[Info   :ModulePatch] Enabled patch Patch_MenuUI_Awake
+[Info   :ModulePatch] Enabled patch Patch_MenuScreen_Show
+[Info   :ModulePatch] Enabled patch Patch_MainMenuControllerClass_ShowScreen
+[Info   :ModulePatch] Enabled patch Patch_WeaponModdingScreen_Show
+[Info   :ModulePatch] Enabled patch Patch_EditBuildScreen_Show
+[Info   :ModulePatch] Enabled patch Patch_TraderScreensGroup_Awake
+[Info   :ModulePatch] Enabled patch Patch_TraderDealScreen_Awake
+[Info   :ModulePatch] Enabled patch Patch_BarterSchemePanel_Awake
+[Info   :ModulePatch] Enabled patch Patch_TradingTable_Awake
+[Info   :ModulePatch] Enabled patch Patch_BarterSchemePanel_method_5
+[Info   :ModulePatch] Enabled patch Patch_QuestsScreen_Awake
+[Info   :ModulePatch] Enabled patch Patch_QuestObjectiveView_QuestHandover
+[Info   :ModulePatch] Enabled patch Patch_QuestControllerClient_TryNotifyConditionalStatusChanged
+[Info   :ModulePatch] Enabled patch Patch_TraderDealScreen_Show
+[Info   :ModulePatch] Enabled patch Patch_QuestsScreen_Show
+[Info   :ModulePatch] Enabled patch Patch_QuestsListView_Show
+[Info   :ModulePatch] Enabled patch Patch_NarrateController_Unload
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Warning:SafeDeserializer] Unable to parse dialog condition type:VariableValue
+[Info   :ModulePatch] Enabled patch FreecamPatch
+[Info   :ModulePatch] Enabled patch FallDamagePatch
+[Info   :ModulePatch] Enabled patch ForceSetCameraPositionPatch
+[Info   :Bot Overlay - AI Task Monitor] [BotOverlay] BotOverlayComponent attached to plugin GameObject.
+[Debug  :   BepInEx] [UnityInput] Using LegacyInputSystem
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/bundles
+[Info   :RequestHandler] [REQUEST]: /wttcommonlib/voices/get
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /wttcommonlib/voices/get
+[Info   :RequestHandler] [REQUEST]: /wttcommonlib/slotimages/get
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /wttcommonlib/slotimages/get
+[Info   :RequestHandler] [REQUEST]: /wttcommonlib/riglayouts/get
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /wttcommonlib/riglayouts/get
+[Info   :RequestHandler] [REQUEST]: /wttcommonlib/audio/manifest/get
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /wttcommonlib/audio/manifest/get
+[Debug  :ImageManager] Downloading hideout icons manifest...
+[Info   :RequestHandler] [REQUEST]: /wttcommonlib/hideout/icons/manifest
+[Debug  :ImageManager] Downloading shooting range marks manifest...
+[Info   :RequestHandler] [REQUEST]: /wttcommonlib/hideout/marktextures/manifest
+[Info   :RequestHandler] [REQUEST]: /wttcommonlib/spawnsystem/configs/get
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /wttcommonlib/spawnsystem/configs/get
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /wttcommonlib/hideout/marktextures/manifest
+[Debug  :ImageManager] Downloaded manifest for 7 shooting range marks
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: ShootingRangeMark, FilePath: SPT/user/cache/shootingrangemarks/TargetCockerel.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetCockerel.png
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /wttcommonlib/hideout/icons/manifest
+[Debug  :ImageManager] Downloaded manifest for 25 hideout icons
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story01AndSurvivedCeiling.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story01AndSurvivedCeiling.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetCockerel.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story01AndSurvivedCeiling.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: ShootingRangeMark, FilePath: SPT/user/cache/shootingrangemarks/TargetAxeman.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetAxeman.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story01AndSurvivedFloor.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story01AndSurvivedFloor.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetAxeman.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story01AndSurvivedFloor.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: ShootingRangeMark, FilePath: SPT/user/cache/shootingrangemarks/TargetTagilla.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetTagilla.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/TargetCockerel.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetCockerel.png
+[Info   :s8_SPTLoadBundleEvenFaster] Init_Prefix: Starting parallel bundle validation...
+[Info   :s8_SPTLoadBundleEvenFaster] ValidateBundlesStreamingAsync: Starting parallel bundle validation for 1482 bundles using Native PCLMULQDQ
+[Info   :s8_SPTLoadBundleEvenFaster] ValidateBundlesStreamingAsync: Max concurrent CRC tasks set to 20 based on CPU thread count.
+[Info   :s8_SPTLoadBundleEvenFaster] ValidateBundlesStreamingAsync: Validation completed. Valid: 1482/1482
+[Info   :s8_SPTLoadBundleEvenFaster] Init_Prefix: Validation succeeded! Fast path enabled. Bypassing SPT serial hash checks.
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetTagilla.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetCockerel.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/TargetAxeman.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetAxeman.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: ShootingRangeMark, FilePath: SPT/user/cache/shootingrangemarks/TargetAceOfSpades.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetAceOfSpades.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetAxeman.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/TargetKnight.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetKnight.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetAceOfSpades.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetKnight.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: ShootingRangeMark, FilePath: SPT/user/cache/shootingrangemarks/TargetKilla.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetKilla.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story02InTheDarknessFloor.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story02InTheDarknessFloor.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetKilla.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story02InTheDarknessFloor.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/EchoOfBattleFloor.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for EchoOfBattleFloor.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: ShootingRangeMark, FilePath: SPT/user/cache/shootingrangemarks/TargetZryachiy.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetZryachiy.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: EchoOfBattleFloor.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetZryachiy.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/EchoOfBattleWall.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for EchoOfBattleWall.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: ShootingRangeMark, FilePath: SPT/user/cache/shootingrangemarks/TargetKnight.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetKnight.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: EchoOfBattleWall.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetKnight.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story04ForHumanityWall.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story04ForHumanityWall.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story04ForHumanityWall.png
+[Info   : Fika.Core] Server version check passed. Expected: >2.2.1, received: 2.2.1
+[Info   :FikaModHandler] Loaded plugin: [Bot Overlay - AI Task Monitor] with GUID [BotOverlay.UniqueGUID] and crc32 [1200338547]
+[Info   :FikaModHandler] Loaded plugin: [acidphantasm-botplacementsystem] with GUID [com.acidphantasm.botplacementsystem] and crc32 [2849709247]
+[Info   :FikaModHandler] Loaded plugin: [acidphantasm-enablelabyrinth] with GUID [com.acidphantasm.enablelabyrinth] and crc32 [343405657]
+[Info   :FikaModHandler] Loaded plugin: [Configuration Manager] with GUID [com.bepis.bepinex.configurationmanager] and crc32 [1470267783]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Core] with GUID [com.SPT.core] and crc32 [862645894]
+[Info   :FikaModHandler] Loaded plugin: [DrakiaXYZ-BigBrain] with GUID [xyz.drakia.bigbrain] and crc32 [3960275769]
+[Info   :FikaModHandler] Loaded plugin: [SAIN] with GUID [me.sol.sain] and crc32 [597768883]
+[Info   :FikaModHandler] Loaded plugin: [BlackDiv] with GUID [com.blackdiv.tacticaltoaster] and crc32 [2536506346]
+[Info   :FikaModHandler] Loaded plugin: [LootingBots] with GUID [me.skwizzy.lootingbots] and crc32 [3854570187]
+[Info   :FikaModHandler] Loaded plugin: [DrakiaXYZ-Waypoints] with GUID [xyz.drakia.waypoints] and crc32 [4082565611]
+[Info   :FikaModHandler] Loaded plugin: [Blackhorse311-BotMind] with GUID [com.blackhorse311.botmind] and crc32 [3721594642]
+[Info   :FikaModHandler] Loaded plugin: [Borkel's Realistic NVGs] with GUID [com.borkel.nvgmasks] and crc32 [2723119421]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Custom] with GUID [com.SPT.custom] and crc32 [152861824]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Singleplayer] with GUID [com.SPT.singleplayer] and crc32 [547962505]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Debugging] with GUID [com.SPT.debugging] and crc32 [1177596246]
+[Info   :FikaModHandler] Loaded plugin: [Fika.Core] with GUID [com.fika.core] and crc32 [1571343820]
+[Info   :FikaModHandler] Loaded plugin: [Skills Extended] with GUID [com.cj.SkillsExtended] and crc32 [770627821]
+[Info   :FikaModHandler] Loaded plugin: [Skills Extended Fika] with GUID [com.cj.SkillsExtendedFika] and crc32 [2533032245]
+[Info   :FikaModHandler] Loaded plugin: [Use items anywhere] with GUID [com.cj.useFromAnywhere] and crc32 [405608694]
+[Info   :FikaModHandler] Loaded plugin: [Quests Extended] with GUID [com.dirtbikercjandlotw.QuestsExtended] and crc32 [2361466040]
+[Info   :FikaModHandler] Loaded plugin: [Fontaine-FOVFix] with GUID [com.fontaine.fovfix] and crc32 [490701888]
+[Info   :FikaModHandler] Loaded plugin: [SPT-UseLooseLoot] with GUID [com.gaylatea.uselooseloot] and crc32 [384789998]
+[Info   :FikaModHandler] Loaded plugin: [GP Coin Unlimited] with GUID [com.gpunlimited.mod] and crc32 [592229693]
+[Info   :FikaModHandler] Loaded plugin: [Deminvincibility] with GUID [com.hazelify.deminvincibility] and crc32 [2950782323]
+[Info   :FikaModHandler] Loaded plugin: [Janky-HollywoodFX] with GUID [com.janky.hollywoodfx] and crc32 [2741166152]
+[Info   :FikaModHandler] Loaded plugin: [Janky-HollywoodGraphics] with GUID [com.janky.hollywoodgraphics] and crc32 [588036117]
+[Info   :FikaModHandler] Loaded plugin: [Kaeno-TraderScrolling] with GUID [com.kaeno.TraderScrolling] and crc32 [3397338025]
+[Info   :FikaModHandler] Loaded plugin: [SPTVRAMCleaner-matsix] with GUID [com.matsix.SPTVRAMCleaner] and crc32 [2784869923]
+[Info   :FikaModHandler] Loaded plugin: [MoreBotsAPI] with GUID [com.morebotsapi.tacticaltoaster] and crc32 [1987339273]
+[Info   :FikaModHandler] Loaded plugin: [MortalStrike] with GUID [com.mortalstrike.mod] and crc32 [1963553809]
+[Info   :FikaModHandler] Loaded plugin: [MoxoPixel-MenuOverhaul] with GUID [com.moxopixel.menuoverhaul] and crc32 [4103024075]
+[Info   :FikaModHandler] Loaded plugin: [PlayerEncumbranceBar] with GUID [com.mpstark.PlayerEncumbranceBar] and crc32 [2675122450]
+[Info   :FikaModHandler] Loaded plugin: [Batteries Not Included] with GUID [com.ozen.batteriesnotincluded] and crc32 [41426195]
+[Info   :FikaModHandler] Loaded plugin: [Batteries Not Included Fika Sync] with GUID [com.ozen.batteriesnotincluded.fikasync] and crc32 [1087533770]
+[Info   :FikaModHandler] Loaded plugin: [s8] with GUID [com.s8.sptpatchcrc32] and crc32 [2845011748]
+[Info   :FikaModHandler] Loaded plugin: [s8_SPTLoadBundleEvenFaster] with GUID [com.s8.sptloadbundleevenfaster] and crc32 [1297229122]
+[Info   :FikaModHandler] Loaded plugin: [tradermod.eft] with GUID [com.tarkin.tradermod] and crc32 [2704375833]
+[Info   :FikaModHandler] Loaded plugin: [Terkoiz.Freecam] with GUID [com.terkoiz.freecam] and crc32 [1423648547]
+[Info   :FikaModHandler] Loaded plugin: [WTT-PackNStrap] with GUID [com.wtt.packnstrap] and crc32 [690294233]
+[Info   :FikaModHandler] Loaded plugin: [Trenchfoot-BeltSlot] with GUID [com.trenchfoot.beltslot] and crc32 [2158599349]
+[Info   :FikaModHandler] Loaded plugin: [TacticalToaster-UNTARGH] with GUID [com.untargh.tacticaltoaster] and crc32 [3771199694]
+[Info   :FikaModHandler] Loaded plugin: [WTT-Armory] with GUID [com.wtt.armory] and crc32 [3499411260]
+[Info   :FikaModHandler] Loaded plugin: [WTT-ClientCommonLib] with GUID [com.wtt.commonlib] and crc32 [2119355729]
+[Info   :FikaModHandler] Loaded plugin: [gekos_api] with GUID [gekos_api_uniqueGUID] and crc32 [877488669]
+[Info   :FikaModHandler] Loaded plugin: [ScavTaskMod] with GUID [scavtaskmod.plugin] and crc32 [1200338547]
+[Info   :FikaModHandler] Loaded plugin: [shwng.FpsCameraStances] with GUID [shwng.camerarotation] and crc32 [3055656127]
+[Info   :FikaModHandler] Loaded plugin: [SPTClientModExamples] with GUID [SPTClientModExamples.UniqueGUID] and crc32 [1200338547]
+[Info   :FikaModHandler] Loaded plugin: [SPTwhiteList] with GUID [SPTwhiteList.client] and crc32 [3636103742]
+[Info   :FikaModHandler] Loaded plugin: [Tyfon.UIFixes] with GUID [Tyfon.UIFixes] and crc32 [1979415583]
+[Info   :FikaModHandler] Loaded plugin: [Content Backport - Prestiges] with GUID [wtf.archangel.contentbackportprestiges] and crc32 [3246112177]
+[Info   :FikaModHandler] Loaded plugin: [Level Endurance and Strength] with GUID [xyz.nekogaming.orion.tarkov.levelenduranceandstrength] and crc32 [2492167394]
+[Debug  :FikaModHandler] {"BotOverlay.UniqueGUID":1200338547,"com.acidphantasm.botplacementsystem":2849709247,"com.acidphantasm.enablelabyrinth":343405657,"com.bepis.bepinex.configurationmanager":1470267783,"com.SPT.core":862645894,"xyz.drakia.bigbrain":3960275769,"me.sol.sain":597768883,"com.blackdiv.tacticaltoaster":2536506346,"me.skwizzy.lootingbots":3854570187,"xyz.drakia.waypoints":4082565611,"com.blackhorse311.botmind":3721594642,"com.borkel.nvgmasks":2723119421,"com.SPT.custom":152861824,"com.SPT.singleplayer":547962505,"com.SPT.debugging":1177596246,"com.fika.core":1571343820,"com.cj.SkillsExtended":770627821,"com.cj.SkillsExtendedFika":2533032245,"com.cj.useFromAnywhere":405608694,"com.dirtbikercjandlotw.QuestsExtended":2361466040,"com.fontaine.fovfix":490701888,"com.gaylatea.uselooseloot":384789998,"com.gpunlimited.mod":592229693,"com.hazelify.deminvincibility":2950782323,"com.janky.hollywoodfx":2741166152,"com.janky.hollywoodgraphics":588036117,"com.kaeno.TraderScrolling":3397338025,"com.matsix.SPTVRAMCleaner":2784869923,"com.morebotsapi.tacticaltoaster":1987339273,"com.mortalstrike.mod":1963553809,"com.moxopixel.menuoverhaul":4103024075,"com.mpstark.PlayerEncumbranceBar":2675122450,"com.ozen.batteriesnotincluded":41426195,"com.ozen.batteriesnotincluded.fikasync":1087533770,"com.s8.sptpatchcrc32":2845011748,"com.s8.sptloadbundleevenfaster":1297229122,"com.tarkin.tradermod":2704375833,"com.terkoiz.freecam":1423648547,"com.wtt.packnstrap":690294233,"com.trenchfoot.beltslot":2158599349,"com.untargh.tacticaltoaster":3771199694,"com.wtt.armory":3499411260,"com.wtt.commonlib":2119355729,"gekos_api_uniqueGUID":877488669,"scavtaskmod.plugin":1200338547,"shwng.camerarotation":3055656127,"SPTClientModExamples.UniqueGUID":1200338547,"SPTwhiteList.client":3636103742,"Tyfon.UIFixes":1979415583,"wtf.archangel.contentbackportprestiges":3246112177,"xyz.nekogaming.orion.tarkov.levelenduranceandstrength":2492167394}
+[Info   :RequestHandler] [REQUEST]: /fika/client/check/mods
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /fika/client/check/mods
+[Debug  :FikaModHandler] {"forbidden":[],"missingRequired":[],"hashMismatch":[]}
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/TargetAceOfSpades.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetAceOfSpades.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetAceOfSpades.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story03DidntEscapeFromYourselfCeiling.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story03DidntEscapeFromYourselfCeiling.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story03DidntEscapeFromYourselfCeiling.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story04ForHumanityFloor.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story04ForHumanityFloor.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story04ForHumanityFloor.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/ForgottenFloor.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for ForgottenFloor.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: ForgottenFloor.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story03DidntEscapeFromYourselfWall.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story03DidntEscapeFromYourselfWall.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story03DidntEscapeFromYourselfWall.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/TargetTagilla.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetTagilla.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetTagilla.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/TargetZryachiy.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetZryachiy.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetZryachiy.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story04ForHumanityCeiling.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story04ForHumanityCeiling.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story04ForHumanityCeiling.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/EchoOfBattleCeiling.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for EchoOfBattleCeiling.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: EchoOfBattleCeiling.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story02InTheDarknessCeiling.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story02InTheDarknessCeiling.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story02InTheDarknessCeiling.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/ForgottenWall.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for ForgottenWall.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: ForgottenWall.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story01AndSurvivedWall.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story01AndSurvivedWall.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story01AndSurvivedWall.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story03DidntEscapeFromYourselfFloor.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story03DidntEscapeFromYourselfFloor.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story03DidntEscapeFromYourselfFloor.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/TargetKilla.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for TargetKilla.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: TargetKilla.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/Story02InTheDarknessWall.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for Story02InTheDarknessWall.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: Story02InTheDarknessWall.png
+[Debug  :ImageManager] [LoadImage] TEST_MODE: False, Fika: True, Type: HideoutIcon, FilePath: SPT/user/cache/hideouticons/ForgottenCeiling.png, IsLocal: True
+[Debug  :ImageManager] [ShouldAcquire] Fika detected, forcing download for ForgottenCeiling.png
+[Debug  :ImageManager] [ShouldAcquire] CACHE: File up-to-date in cache: ForgottenCeiling.png
+Shader 'p0/Reflective/Bumped Specular Mask': fallback shader 'p0/Reflective/Bumped Specular Mask 2' not found
+Shader 'Effects/Explosions/DistortionFresnel': fallback shader 'Effects/Distortion/Free/CullOff' not found
+Shader 'p0/Reflective/Bumped Specular Mask Compound': fallback shader 'p0/Reflective/Bumped Specular Mask 2' not found
+Shader 'Terrain/Bumped Specular Snow': dependency 'AddPassShader' shader 'Hidden/Nature/Terrain/Bumped Specular AddPass' not found
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'RainyShaders/Terrain_Rainy_Shader ': dependency 'AddPassShader' shader 'Hidden/Nature/Terrain/Bumped Specular AddPass' not found
+Shader 'Terrain/Bumped Specular': dependency 'AddPassShader' shader 'Hidden/Nature/Terrain/Bumped Specular AddPass' not found
+[Message:ModulePatch] SAIN detected, initializing SAIN interop for MoreBotsAPI.
+[Info   :MoreBotsAPI] Initializing SAIN interop for MoreBotsAPI...
+[Info   :MoreBotsAPI] Creating custom bot types for SAIN...
+[Info   :MoreBotsAPI] Added SAIN BotType: Black Division Lead with WildSpawnType blackDivLead
+[Info   :MoreBotsAPI] Added SAIN BotType: Black Division Assault with WildSpawnType blackDivAssault
+[Info   :MoreBotsAPI] Added SAIN BotType: Black Division Breacher with WildSpawnType blackDivBreacher
+[Info   :MoreBotsAPI] Added SAIN BotType: Black Division Support with WildSpawnType blackDivSupport
+[Info   :MoreBotsAPI] Added SAIN BotType: UNTAR Follower with WildSpawnType followeruntar
+[Info   :MoreBotsAPI] Added SAIN BotType: UNTAR Squad Leader with WildSpawnType bossuntarlead
+[Info   :MoreBotsAPI] Added SAIN BotType: UNTAR Marksman with WildSpawnType followeruntarmarksman
+[Info   :MoreBotsAPI] Added SAIN BotType: UNTAR Officer with WildSpawnType bossuntarofficer
+[Info   :Janky-HollywoodFX] Enabling Enhanced Shell Physics
+[Info   :ModulePatch] Enabled patch GameWorldDisposePostfixPatch
+[Info   :ModulePatch] Enabled patch GameWorldAwakePrefixPatch
+[Info   :ModulePatch] Enabled patch GameWorldStartedPostfixPatch
+[Info   :ModulePatch] Enabled patch ShotDelegateWrapperPatch
+[Info   :ModulePatch] Enabled patch EffectsAwakePrefixPatch
+[Info   :ModulePatch] Enabled patch EffectsAwakePostfixPatch
+[Info   :ModulePatch] Enabled patch EffectsEmitPatch
+[Info   :ModulePatch] Enabled patch TextureDecalsPainterVisCheckPatch
+[Info   :ModulePatch] Enabled patch AmmoPoolObjectAutoDestroyPostfixPatch
+[Info   :ModulePatch] Enabled patch ShellOnBouncePrefixPatch
+[Info   :ModulePatch] Enabled patch FirearmControllerInitiateShotPrefixPatch
+[Info   :ModulePatch] Enabled patch MuzzleManagerShotPrefixPatch
+[Info   :ModulePatch] Enabled patch WeaponPrefabInitHotObjectsPostfixPatch
+[Info   :ModulePatch] Enabled patch EffectsInitBlastControllerPatch
+[Info   :ModulePatch] Enabled patch EffectsWipeDefaultExplosionSystemsPatch
+[Info   :ModulePatch] Enabled patch EffectsEmitGrenadePatch
+[Info   :ModulePatch] Enabled patch GameWorldInitConcussionPatch
+[Info   :ModulePatch] Enabled patch PlayerPoolObjectRoleModelPostfixPatch
+[Info   :ModulePatch] Enabled patch RagdollStartPrefixPatch
+[Info   :ModulePatch] Enabled patch RagdollStartPostfixPatch
+[Info   :ModulePatch] Enabled patch PlayerRigidbodySleepHierarchyTryPutToSleepPrefixPatch
+[Info   :ModulePatch] Enabled patch RagdollM1PostfixPatch
+[Info   :ModulePatch] Enabled patch AttachWeaponPostfixPatch
+[Info   :ModulePatch] Enabled patch LootItemIsRigidBodyDonePrefixPatch
+[Info   :ModulePatch] Enabled patch PlayerOnDeadPostfixPatch
+[Info   :Janky-HollywoodFX] Initialization finished
+[Info   :Janky-HollywoodFX] Logging disabled
+[Info   :ModulePatch] Enabled patch LampControllerAwakePostfixPatch
+[Info   :ModulePatch] Enabled patch GraphicsRaidInitPatch
+[Info   :ModulePatch] Enabled patch GraphicsControllerInitPatch
+[Info   :ModulePatch] Enabled patch TerrainDetailOverridePatch
+[Info   :ModulePatch] Enabled patch RayleighScatteringBumpPatch
+[Info   :Janky-HollywoodGraphics] Initialization finished
+[Info   :Janky-HollywoodGraphics] Logging disabled
+Unloading 4 Unused Serialized files (Serialized files now loaded: 7)
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+UnloadTime: 0.541500 ms
+Unloading 4579 unused Assets to reduce memory usage. Loaded Objects now: 102298.
+Total: 168.077400 ms (FindLiveObjects: 5.759700 ms CreateObjectMapping: 1.370800 ms MarkObjects: 158.530300 ms  DeleteObjects: 2.414100 ms)
+
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/version
+[Info   :ModulePatch] Server version: SPT 4.0.12 - b006ff
+[Info   : Fika.Core] Waiting for locales to be ready...
+[Info   :RequestHandler] [REQUEST]: /singleplayer/clientmods
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/clientmods
+Unloading 10 Unused Serialized files (Serialized files now loaded: 8)
+UnloadTime: 1.226900 ms
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 380080.
+Total: 221.191400 ms (FindLiveObjects: 33.005300 ms CreateObjectMapping: 5.762600 ms MarkObjects: 182.089800 ms  DeleteObjects: 0.333200 ms)
+
+ERROR: Shader TextMeshPro/Mobile/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script (EFT.SinglePlayerApplication) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '----APPLICATION----') is missing!
+A scripted object (probably EFT.SinglePlayerApplication?) has a different serialization layout when loading. (Read 32 bytes but expected 144 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'EditorDecalManager') is missing!
+The referenced script on this Behaviour (Game Object 'stub') is missing!
+The referenced script on this Behaviour (Game Object 'UnculledObjectRenderer') is missing!
+Renderer 'light_CellPlafonds_holder_LOD0' is registered with more than one LODGroup ('light_CellPlafonds_holder (2)' and 'light_CellPlafonds_holder_LOD0').
+Renderer 'light_CellPlafonds_holder_LOD0' is registered with more than one LODGroup ('light_CellPlafonds_holder (2)' and 'light_CellPlafonds_holder_LOD0').
+Renderer 'light_CellPlafonds_holder_LOD0' is registered with more than one LODGroup ('light_CellPlafonds_holder (2)' and 'light_CellPlafonds_holder_LOD0').
+Renderer 'light_CellPlafonds_holder_LOD0' is registered with more than one LODGroup ('light_CellPlafonds_holder (2)' and 'light_CellPlafonds_holder_LOD0').
+[Info   :LootingBots] Initializing item appraiser
+[Info   :RequestHandler] [REQUEST]: /botplacementsystem/load
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /botplacementsystem/load
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Info   : Fika.Core] Locales are ready!
+[Error  : Fika.Core] [ShowFikaMessage]: You are trying to show error screen from non-main thread!
+[Info   :Quests Extended] MMCC.method_5 ran
+[Info   :Quests Extended] No SpecialStartedQuests.json file found for this profile, starting fresh.
+[Info   :  SPT.Core] 1217600
+[Info   :  SPT.Core] 28725312
+[Info   :  SPT.Core] 0
+[Info   :  SPT.Core] 0
+[Info   :  SPT.Core] 0
+[Info   :  SPT.Core] LmRvb3JzdG9wX3ZlcnNpb24sZG9vcnN0b3BfY29uZmlnLmluaSxFc2NhcGVGcm9tVGFya292LmV4ZSxFc2NhcGVGcm9tVGFya292LmdjLmxvZyxMSUNFTlNFLUJFUElORVgudHh0LExJQ0VOU0UtQ29uZmlndXJhdGlvbk1hbmFnZXIudHh0LExJQ0VOU0UtTW9kdWxlcy50eHQsUGF0Y2hlci5sb2csc3B0LWluc3RhbGxlci5sb2csU1BULkxhdW5jaGVyLmxuayxTUFQuU2VydmVyLmxuayxVbml0eVBsYXllci5kbGwsd2luaHR0cC5kbGw=
+[Info   : Fika.Core] Cached local IPs: 0.0.0.0, ::, 172.19.0.1, 192.168.0.232
+[Debug  :MoxoPixel-MenuOverhaul] Scene events initialized by MenuOverhaulPatch.
+[Warning:MoxoPixel-MenuOverhaul] EnvironmentUISceneFactory GameObject not found in Environment UI.
+[Warning:MoxoPixel-MenuOverhaul] MenuOverhaulPatch.HandleScene - EnvironmentObjects or FactoryLayout not found for CommonUIScene.
+[Debug  :MoxoPixel-MenuOverhaul] Layout-specific settings changes subscribed.
+[Warning:MoxoPixel-MenuOverhaul] EnvironmentUISceneFactory GameObject not found in Environment UI.
+[Warning:MoxoPixel-MenuOverhaul] UpdateLayoutElements - Could not find environment objects.
+[Warning:MoxoPixel-MenuOverhaul] EnvironmentUISceneFactory GameObject not found in Environment UI.
+[Warning:MoxoPixel-MenuOverhaul] DisableCameraMovement - Essential EnvironmentObjects not found.
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/raid/menu
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/raid/menu
+[Info   :GP Coin Unlimited] GP Unlimited [GClass3387]: GP coin limit bypassed
+[Info   :GP Coin Unlimited] GP Unlimited [GClass3387]: GP coin limit bypassed
+[Debug  :ModulePatch] TarkovApplication_LocalGamePreparer_Patch:Prefix
+[Info   :NetManagerUtils] FikaGameObject has been created!
+[Info   :NetManagerUtils] FikaServer has created!
+[Info   :Fika.Server] Starting server with SendRate: 20
+[Info   :NetManagerUtils] Creating CoopHandler...
+[Info   :Fika.Server] Started Fika Server
+[Info   :WTT-ClientCommonLib] [WTT-ClientCommonLibFika] Registered StaticSpawnPacket handler
+[Debug  :MoxoPixel-MenuOverhaul] Scene unloaded: bunker_2 (MenuOverhaulPatch)
+[Info   :Batteries Not Included] DeviceManager created
+[Info   :Batteries Not Included Fika Sync] DeviceSyncManager created
+Shader 'Legacy Shaders/Decal': fallback shader 'Legacy Shaders/Diffuse' not found
+Shader 'Particles/Standard Unlit': fallback shader 'VertexLit' not found
+Shader 'Particles/Standard Surface': fallback shader 'VertexLit' not found
+Shader 'Standard': fallback shader 'VertexLit' not found
+Shader 'Standard (Specular setup)': fallback shader 'VertexLit' not found
+The referenced script (EFT.SinglePlayerApplication) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '----APPLICATION----') is missing!
+A scripted object (probably EFT.SinglePlayerApplication?) has a different serialization layout when loading. (Read 32 bytes but expected 148 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Unloading 82 Unused Serialized files (Serialized files now loaded: 274)
+[Debug  :MoxoPixel-MenuOverhaul] Scene unloaded: CommonUIScene (MenuOverhaulPatch)
+[Debug  :MoxoPixel-MenuOverhaul] Scene unloaded: MenuUIScene (MenuOverhaulPatch)
+[Debug  :MoxoPixel-MenuOverhaul] Scene unloaded: GameUIScene (MenuOverhaulPatch)
+UnloadTime: 26.135500 ms
+[Debug  :Blackhorse311-BotMind] GameWorld destroyed - cleaning up BotMind modules
+[Debug  :Blackhorse311-BotMind] MedicBuddy audio clips cleaned up
+[Info   :Fika.Server] ..:: Fika Server Session Statistics ::..
+[Info   :Fika.Server] Sent packets: 0
+[Info   :Fika.Server] Sent data: 0 B
+[Info   :Fika.Server] Received packets: 0
+[Info   :Fika.Server] Received data: 0 B
+[Info   :Fika.Server] Packet loss: 0%
+[Info   :NetManagerUtils] Destroyed FikaServer
+InvalidOperationException: An attempt was made to transition a task to a final state when it had already completed.
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].SetResult (TResult result) [0x00050] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].SetResult (System.Threading.Tasks.Task`1[TResult] completedTask) [0x00010] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult () [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at (wrapper dynamic-method) EFT.TarkovApplication+Struct389.DMD<EFT.TarkovApplication+Struct389::MoveNext>(EFT.TarkovApplication/Struct389&)
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00024] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x0000f] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at Internal.Runtime.Augments.RuntimeAugments.ReportUnhandledException (System.Exception exception) [0x00006] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.ThrowAsyncIfNecessary (System.Exception exc) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00016] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task ignored, System.Boolean canInlineContinuationTask) [0x00016] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x000a3] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x0003c] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.Task.CancellationCleanupLogic () [0x00047] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.Tasks.Task.TrySetCanceled (System.Threading.CancellationToken tokenToRecord, System.Object cancellationException) [0x0001c] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].SetException (System.Exception exception) [0x00039] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at EFT.TarkovApplication.method_43 (ServerScenesDataStruct scenePreset, System.Threading.CancellationToken cancellationToken, System.Boolean isLocalGame, System.Boolean canEscape) [0x00888] in <ad47400a25db462cbf0a531df654c3c3>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00071] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00024] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at TasksExtensions+OperationAwaiter+<>c__DisplayClass2_0.<OnCompleted>g__OnOperationCompletedEvent|0 () [0x00017] in <4fca0b99ee0d4db2bfabcb8674e78bf9>:0 
+  at Comfort.Common.AbstractOperation.RaiseCompletedEvent () [0x00008] in <7c0ea38453124114afbc832ab7afde2a>:0 
+  at Comfort.Common.Operation.set_Error (System.String value) [0x00026] in <7c0ea38453124114afbc832ab7afde2a>:0 
+  at GClass2287.method_7 () [0x00000] in <ad47400a25db462cbf0a531df654c3c3>:0 
+  at GClass2287.method_1 (EFT.ScenesPreset preset) [0x004a0] in <ad47400a25db462cbf0a531df654c3c3>:0 
+  at GClass2287.method_0 (ServerScenesDataStruct preset) [0x0015d] in <ad47400a25db462cbf0a531df654c3c3>:0 
+Rethrow as AggregateException: One or more errors occurred. (An attempt was made to transition a task to a final state when it had already completed.)
+
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Class412:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+TasksExtensions:HandleFinishedTask(Task)
+System.Threading.Tasks.ContinuationTaskFromTask:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.Tasks.Task:ExecutionContextCallback(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue:Dispatch()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback()
+
+Unloading 16203 unused Assets to reduce memory usage. Loaded Objects now: 785507.
+Total: 384.256700 ms (FindLiveObjects: 58.175800 ms CreateObjectMapping: 19.167100 ms MarkObjects: 280.361300 ms  DeleteObjects: 26.552100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 274)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 774964.
+Total: 410.619400 ms (FindLiveObjects: 62.075300 ms CreateObjectMapping: 15.917700 ms MarkObjects: 330.441600 ms  DeleteObjects: 2.184300 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 142)
+[Debug  :MoxoPixel-MenuOverhaul] Scene unloaded: shoreline_scripts (MenuOverhaulPatch)
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+UnloadTime: 34.421700 ms
+Unloading 1305 unused Assets to reduce memory usage. Loaded Objects now: 738595.
+Total: 441.498900 ms (FindLiveObjects: 55.625000 ms CreateObjectMapping: 13.703000 ms MarkObjects: 361.901600 ms  DeleteObjects: 10.268600 ms)
+
+ERROR: Shader TextMeshPro/Mobile/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script (EFT.SinglePlayerApplication) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '----APPLICATION----') is missing!
+A scripted object (probably EFT.SinglePlayerApplication?) has a different serialization layout when loading. (Read 32 bytes but expected 144 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'EditorDecalManager') is missing!
+The referenced script on this Behaviour (Game Object 'stub') is missing!
+The referenced script on this Behaviour (Game Object 'UnculledObjectRenderer') is missing!
+Renderer 'light_CellPlafonds_holder_LOD0' is registered with more than one LODGroup ('light_CellPlafonds_holder (2)' and 'light_CellPlafonds_holder_LOD0').
+Renderer 'light_CellPlafonds_holder_LOD0' is registered with more than one LODGroup ('light_CellPlafonds_holder (2)' and 'light_CellPlafonds_holder_LOD0').
+Renderer 'light_CellPlafonds_holder_LOD0' is registered with more than one LODGroup ('light_CellPlafonds_holder (2)' and 'light_CellPlafonds_holder_LOD0').
+Renderer 'light_CellPlafonds_holder_LOD0' is registered with more than one LODGroup ('light_CellPlafonds_holder (2)' and 'light_CellPlafonds_holder_LOD0').
+[Info   :RequestHandler] [REQUEST]: /botplacementsystem/load
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /botplacementsystem/load
+[Info   :Quests Extended] MMCC.method_5 ran
+[Warning:MoxoPixel-MenuOverhaul] EnvironmentUISceneFactory GameObject not found in Environment UI.
+[Warning:MoxoPixel-MenuOverhaul] UpdateLayoutElements - Could not find environment objects.
+[Warning:MoxoPixel-MenuOverhaul] EnvironmentUISceneFactory GameObject not found in Environment UI.
+[Warning:MoxoPixel-MenuOverhaul] DisableCameraMovement - Essential EnvironmentObjects not found.
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/raid/menu
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/raid/menu
+[Info   :GP Coin Unlimited] GP Unlimited [GClass3387]: GP coin limit bypassed
+[Info   :GP Coin Unlimited] GP Unlimited [GClass3387]: GP coin limit bypassed
+[Debug  :ModulePatch] TarkovApplication_LocalGamePreparer_Patch:Prefix
+[Info   :NetManagerUtils] FikaServer has created!
+[Info   :Fika.Server] Starting server with SendRate: 20
+[Info   :NetManagerUtils] Creating CoopHandler...
+[Info   :Fika.Server] Started Fika Server
+[Info   :WTT-ClientCommonLib] [WTT-ClientCommonLibFika] Registered StaticSpawnPacket handler
+[Debug  :MoxoPixel-MenuOverhaul] Scene unloaded: bunker_2 (MenuOverhaulPatch)
+[Info   :Batteries Not Included] DeviceManager created
+[Info   :Batteries Not Included Fika Sync] DeviceSyncManager created
+Shader 'Legacy Shaders/Decal': fallback shader 'Legacy Shaders/Diffuse' not found
+Shader 'Particles/Standard Unlit': fallback shader 'VertexLit' not found
+Shader 'Particles/Standard Surface': fallback shader 'VertexLit' not found
+Shader 'Standard': fallback shader 'VertexLit' not found
+Shader 'Standard (Specular setup)': fallback shader 'VertexLit' not found
+The referenced script (EFT.SinglePlayerApplication) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object '----APPLICATION----') is missing!
+A scripted object (probably EFT.SinglePlayerApplication?) has a different serialization layout when loading. (Read 32 bytes but expected 148 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Unloading 78 Unused Serialized files (Serialized files now loaded: 274)
+[Debug  :MoxoPixel-MenuOverhaul] Scene unloaded: MenuUIScene (MenuOverhaulPatch)
+[Debug  :MoxoPixel-MenuOverhaul] Scene unloaded: GameUIScene (MenuOverhaulPatch)
+UnloadTime: 25.748500 ms
+Unloading 11861 unused Assets to reduce memory usage. Loaded Objects now: 868051.
+Total: 636.132400 ms (FindLiveObjects: 151.894700 ms CreateObjectMapping: 42.385900 ms MarkObjects: 412.869000 ms  DeleteObjects: 28.982500 ms)
+
+WheelCollider requires an attached Rigidbody to function.
+WheelCollider requires an attached Rigidbody to function.
+WheelCollider requires an attached Rigidbody to function.
+WheelCollider requires an attached Rigidbody to function.
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "quest_zones/place_peacemaker_004_N2"
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 32 workers.
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/getRaidTime
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/getRaidTime
+[Info   :acidphantasm-botplacementsystem] Storing bossKnight with existing chance 0
+[Info   :acidphantasm-botplacementsystem] Storing bossSanitar with existing chance 30
+[Info   :acidphantasm-botplacementsystem] Storing bossPartisan with existing chance 30
+[Info   :acidphantasm-botplacementsystem] Storing sectantPriest with existing chance 15
+[Info   :  CoopGame] Creating CoopHandler
+[Info   :  CoopGame] Initializing Exfils: Id Shoreline, Exits: 10, SecretExits: 1
+[Info   :  CoopGame] Location: Shoreline
+[Info   :NetManagerUtils] Setting up game variables...
+[Info   :  CoopGame] Adding debug component...
+[Info   :  CoopGame] Local player created
+[Info   :HostGameController] Starting task to wait for host to start the raid.
+[Error  :      SAIN] [SAIN.Helpers.EnumValues] : [[.ctor().TryGetAmmoCaliber().TryParse()]:] : [[Caliber11x33R] does not exist in [SAIN.ECaliber] Enum!]
+[Error  :      SAIN] [SAIN.Helpers.EnumValues] : [[.ctor().TryGetAmmoCaliber().TryParse()]:] : [[11x33R] does not exist in [SAIN.ECaliber] Enum!]
+[Info   :HostGameController] Raid has been started...
+Shader 'Standard': fallback shader 'VertexLit' not found
+Shader 'Standard': fallback shader 'VertexLit' not found
+Couldn't create a Convex Mesh from source mesh "item_equipment_facecover_devtac_LOD0_base" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script (Unknown) on this Behaviour is missing!
+Couldn't create a Convex Mesh from source mesh "Cube" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[Info   :HostGameController] Generating and initializing weather...
+[Info   :HostGameController] Setting Season to: SpringEarly
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/Shoreline
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/maxCap/Shoreline
+[Info   :ModulePatch] Set max bot cap for: Shoreline from: 36 to: 35
+[Info   :acidphantasm-botplacementsystem] [ABPS] Setting max bots to 22 on shoreline
+[Debug  :ModulePatch] Injected custom navmesh: F:\test\ZALUPA\BepInEx\plugins\DrakiaXYZ-Waypoints\navmesh\shoreline-navmesh.bundle
+[Info   : Fika.Core] [CoreSettings]: Retrieving Core settings
+[Debug  :ModulePatch] __instance.BotHalloweenEvent.Spawner is null skip Activate
+[Info   :  BlackDiv] BotsController initialized, initializing Managers...
+[Debug  :ModulePatch] Open: 136  Closed: 105  Locked: 37
+[Debug  :ModulePatch] __instance.BotHalloweenEvent.Spawner is not null run Activate
+[Info   :TacticalToaster-UNTARGH] BotsController initialized, initializing UntarCheckpointManager...
+[Info   :TacticalToaster-UNTARGH] Initializing UntarCheckpointManager for raid...
+[Info   :RequestHandler] [REQUEST]: /untar/checkpoints
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /untar/checkpoints
+[Info   :TacticalToaster-UNTARGH] Loading checkpoints from config... Shoreline
+[Info   :HostGameController] All players are loaded, continuing...
+[Info   :HostGameController] Running old spawn system. Waves: 5
+[Info   :RequestHandler] [REQUEST]: /singleplayer/scav/traitorscavhostile
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/scav/traitorscavhostile
+[Info   :ModulePatch] Old BotZone: ZonePassClose -> New BotZone: ZonePort
+[Info   :HostGameController] Running new spawn system.
+[Info   :HostGameController] MatchingType: Host, Raid Code: 1P1TJT
+[Info   :ModulePatch] Spawn Point Attempt: Mohammad_Bagher | WildSpawnType: pmcUSEC | Count: 1
+[Info   :ModulePatch] Spawn Point Attempt: stella | WildSpawnType: pmcUSEC | Count: 4
+[Info   :ModulePatch] Spawn Point Attempt: ATTACK-2 | WildSpawnType: pmcBEAR | Count: 3
+[Info   :ModulePatch] Spawn Point Attempt: Mihai | WildSpawnType: pmcUSEC | Count: 1
+[Info   :ModulePatch] Spawn Point Attempt: Burchard36 | WildSpawnType: pmcBEAR | Count: 1
+[Info   :ModulePatch] Spawn Point Attempt: afraidsupra | WildSpawnType: pmcBEAR | Count: 1
+Unloading 41 Unused Serialized files (Serialized files now loaded: 1926)
+Unloading 3197 unused Assets to reduce memory usage. Loaded Objects now: 3124211.
+Total: 1376.468500 ms (FindLiveObjects: 306.225200 ms CreateObjectMapping: 60.414100 ms MarkObjects: 993.689900 ms  DeleteObjects: 16.138700 ms)
+
+[Info   :SPTVRAMCleaner-matsix] VRAMCleanerReset - Resetting cleanerRan to false
+[Info   :MortalStrike] [MortalStrike] Синтетическая бригада инжектирована.
+[Info   :MortalStrike] [MortalStrike] Инициализирован. Зон в конфиге: 0 (не используются).
+[Info   :MortalStrike] [MortalStrike] Загружаем звук: file:///F:/test/ZALUPA/BepInEx/plugins/Sound.mp3
+[Info   :SPTVRAMCleaner-matsix] Unused Assets have been unloaded - VRAM Usage cleaned
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2023)
+[Info   :HostGameController] [SERVER] SpawnPoint: 0d4d2d64-9c67-4369-92c6-993bdcc2745f, InfiltrationPoint: Riverside
+[Info   :ZoneDebugComponent] ZoneDebugComponent enabled
+[Debug  :ZoneDebugComponent] DLSS or FSR is enabled, scale screen offsets by 1.723519
+[Debug  :Blackhorse311-BotMind] GameWorld created - initializing BotMind modules
+[Debug  :Blackhorse311-BotMind] Loading MedicBuddy en voice lines from: F:\test\ZALUPA\BepInEx\plugins\Blackhorse311-BotMind\voicelines\en
+[Debug  :Blackhorse311-BotMind] Loading MedicBuddy ru voice lines from: F:\test\ZALUPA\BepInEx\plugins\Blackhorse311-BotMind\voicelines\ru
+[Info   :Blackhorse311-BotMind] MedicBuddy controller initialized
+[Info   :Quests Extended] [QE] Raid starting
+[Info   :Quests Extended] StatCounterQuestController is active.
+[Debug  :Quests Extended] Custom conditions active: False
+[Info   :Quests Extended] Resolved UnderlyingQuestControllerClassName to be GClass4024 (put this back to LogDebug!)
+[Info   :Quests Extended] No CompletedOptionals.json file found for this profile, starting fresh.
+[Info   :Quests Extended] No CompletedMultipleChoice.json file found for this profile, starting fresh.
+[Info   :Quests Extended] ZoneId: place_peacemaker_003_N3 Position: (-349.68, -39.86, 185.87) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_003_N3 Position: (-349.68, -39.86, 185.87) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_004_N1 Position: (-553.09, -29.35, -127.68) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: event_labyrinth_03_mech_place_01 Position: (-196.50, -6.00, -81.00) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: event_labyrinth_03_mech_place_02 Position: (-196.00, -6.50, -77.00) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: marafon_kill_village_shoreline Position: (377.30, -54.42, 136.30) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: event_labyrinth_02_mech_place_05 Position: (-625.82, -54.72, 482.17) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: skier_022_area_2 Position: (98.10, -47.19, 96.98) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (306.20, -21.50, -285.40) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_009_3_N1 Position: (-149.87, -6.08, -77.00) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_010_3 Position: (72.91, -59.67, 348.73) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: huntsman_024_2 Position: (382.94, -51.93, -125.90) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (523.90, -21.50, -143.70) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: huntsman_026 Position: (-229.06, 3.29, -88.86) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: NosQuests_11_shoreline_place Position: (-459.72, -47.77, 564.83) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: q_ny_hide_christmas_tree_shorl Position: (-251.91, -3.97, -112.46) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: prapor_022_area_2 Position: (96.73, -47.19, 97.10) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: q14_10_point_area Position: (-645.00, -20.30, -200.70) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (322.60, -21.50, 28.50) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: skier_022_area_1 Position: (-263.59, -3.96, -85.72) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: q14_11_jeep Position: (227.16, -54.91, -159.88) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: q14_11_jeep Position: (227.16, -54.91, -159.88) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId:  em_quest4_3 Position: (-512.09, -13.16, 264.14) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_meh_sanitar_room Position: (-322.83, -2.75, -77.54) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_SIGNAL_03_3 Position: (-708.72, -26.21, 90.59) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_003_N1 Position: (-153.08, -17.05, -280.18) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_003_N1 Position: (-153.08, -17.05, -280.18) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-327.80, -21.50, -283.50) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_SIGNAL_03_2 Position: (-230.55, 8.32, -92.39) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: prapor_022_area_1 Position: (-263.98, -3.96, -85.25) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_008_2_N1 Position: (-250.50, -5.14, -48.28) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_008_2_N1 Position: (-250.50, -5.14, -48.28) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: 2A2_unlock_4_discover Position: (-200.31, -6.15, -76.36) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_007_1_N1 Position: (287.07, -49.35, -42.33) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-430.20, -21.50, 84.20) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: RSHG_event_04_jaeger_r_point Position: (-645.00, -20.30, -200.70) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_005_N2 Position: (-596.26, -58.53, 475.53) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_005_N2 Position: (-596.26, -58.53, 475.53) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: prapor_27_3 Position: (-253.40, -5.70, -99.60) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_004_N2 Position: (81.43, -31.82, -166.85) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-267.40, -21.50, 293.40) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: huntsman_024_1 Position: (405.94, -51.93, -44.50) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: ter_023_area_1_1 Position: (-253.17, -4.07, -56.86) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-635.90, -21.50, 373.90) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: q_ny_kill_christmas_guys_shorl Position: (-251.87, -3.97, -112.32) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_SIGNAL_01_2 Position: (-483.31, -25.76, 253.66) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_003_N2 Position: (378.74, -54.38, 166.86) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_003_N2 Position: (378.74, -54.38, 166.86) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: BTR_FUEL_2 Position: (-627.01, -25.45, -228.45) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: ter_013_area_4 Position: (97.66, -47.25, 70.80) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: ter_013_area_4 Position: (97.66, -47.25, 70.80) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-477.90, -21.50, -159.20) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: ter_013_area_1 Position: (312.70, -59.18, 314.50) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: ter_013_area_1 Position: (312.70, -59.18, 314.50) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-371.50, -21.50, 256.00) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_007_2_N3 Position: (-336.64, 3.55, -88.73) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_007_2_N3 Position: (-336.64, 3.55, -88.73) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (212.10, -21.50, 246.30) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_SIGNAL_03_1 Position: (-483.81, -24.47, 248.83) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: new_year_2024_market_shoreline Position: (-161.58, -2.90, -64.57) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_005_N1 Position: (-234.49, -3.47, -164.42) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_005_N1 Position: (-234.49, -3.47, -164.42) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: skier_022_area_3 Position: (-305.38, -60.86, 492.20) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-88.60, -21.50, 189.80) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_001 Position: (-182.04, -63.73, 459.85) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_001 Position: (-182.04, -63.73, 459.85) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: ter_013_area_3 Position: (-258.08, -3.96, -85.66) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: ter_013_area_3 Position: (-258.08, -3.96, -85.66) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: Zone_two_toilets Position: (-321.59, -61.08, 488.20) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: Terminal_quest_final Position: (-312.97, 6.92, -82.24) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: Terminal_quest_final Position: (-312.97, 6.92, -82.24) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: event_labyrinth_04_therap_place_01 Position: (97.50, -47.21, 71.00) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_SIGNAL_01_1 Position: (-230.40, 8.35, -93.62) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_008_4_N2 Position: (-171.16, 0.14, -75.51) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId:  em_quest4_4 Position: (407.88, -52.84, -49.11) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: prapor_022_area_3 Position: (-306.20, -60.86, 494.10) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_008_2_N2 Position: (-280.55, -4.78, -41.31) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_008_2_N2 Position: (-280.55, -4.78, -41.31) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId:  em_quest4_4 Position: (407.06, -52.91, -39.83) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_009_2 Position: (-336.98, -2.73, -88.09) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (62.90, -21.50, -176.10) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-569.70, -21.50, -60.60) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: ter_013_area_2 Position: (354.92, -58.63, 306.12) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: ter_013_area_2 Position: (354.92, -58.63, 306.12) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: q14_10_kill Position: (-591.80, -20.30, -117.70) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: q_ny_find_christmas_tree_shorl Position: (-251.91, -3.97, -112.46) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_008_4_N1 Position: (-336.55, 0.15, -76.43) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: huntsman_024_3 Position: (287.14, -49.20, -46.32) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: unkown_mark_2 Position: (251.99, -52.69, -105.12) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: unkown_mark_2 Position: (251.99, -52.69, -105.12) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: ter_023_area_3_1 Position: (-311.90, -60.90, 489.70) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (265.90, -21.50, -27.60) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: BTR_FUEL_1 Position: (-609.33, -28.66, -176.87) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: event_labyrinth_02_mech_place_06 Position: (-351.33, -1.17, -134.00) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: Zone_cursed Position: (326.23, -54.20, 131.47) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: ter_023_area_2_1 Position: (94.21, -47.50, 61.97) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: kill_in_forest_shoreline Position: (-807.60, -21.50, 225.70) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_010_2 Position: (235.56, -64.46, 442.02) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: place_peacemaker_010_2 Position: (235.56, -64.46, 442.02) Type: EFT.Interactive.ExperienceTrigger
+[Info   :Quests Extended] ZoneId: NosQuests_8_shoreline_place Position: (-459.34, -47.60, 566.97) Type: EFT.Interactive.PlaceItemTrigger
+[Info   :Quests Extended] ZoneId: Halloween_zone_for_antivirus(shoreline) Position: (-173.72, -15.86, -335.15) Type: EFT.Interactive.PlaceItemTrigger
+[Warning:MoxoPixel-MenuOverhaul] EnvironmentUISceneFactory GameObject not found in Environment UI.
+[Debug  :MoxoPixel-MenuOverhaul] Layout-specific settings changes unsubscribed.
+[Debug  :MoxoPixel-MenuOverhaul] Scene events cleaned up by MenuOverhaulPatch.
+[Warning:MoxoPixel-MenuOverhaul] EnvironmentUISceneFactory GameObject not found in Environment UI.
+[Warning:MoxoPixel-MenuOverhaul] CleanupGameObjects - Could not find environment objects.
+[Info   :ModulePatch] Disabled patch MenuOverhaulPatch
+[Info   :ModulePatch] Disabled patch SetAlphaPatch
+[Info   :ModulePatch] Disabled patch TweenButtonPatch
+[Info   :ModulePatch] Disabled patch PlayerProfileFeaturesPatch
+[Debug  :MoxoPixel-MenuOverhaul] Light helper references cleared during cleanup
+[Debug  :MoxoPixel-MenuOverhaul] Menu overhaul patches and GameObjects disabled and cleaned up on game start
+[Info   :RequestHandler] [REQUEST]: /wttcommonlib/zones/get
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /wttcommonlib/zones/get
+[Info   :MortalStrike] [MortalStrike] Sound.mp3 загружен. Длина: 10.08s
+[Info   :MortalStrike] [MortalStrike] Звук готов (10.08s).
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_summon_request_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_summon_request_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_summon_request_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_summon_request_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_enroute_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_summon_request_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_enroute_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_enroute_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_enroute_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_arrived_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_enroute_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_arrived_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_arrived_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_arrived_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_arrived_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_start_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_start_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_start_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_start_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_start_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_complete_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_complete_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_complete_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_complete_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_exfil_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_healing_complete_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_exfil_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_exfil_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_exfil_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_en_team_exfil_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_summon_request_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_summon_request_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_summon_request_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_summon_request_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_enroute_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_summon_request_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_enroute_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_enroute_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_enroute_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_enroute_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_arrived_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_arrived_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_arrived_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_arrived_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_start_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_start_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_arrived_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_start_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_start_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_start_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_complete_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_complete_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_complete_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_complete_5
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_exfil_1
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_healing_complete_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_exfil_2
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_exfil_3
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_exfil_4
+[Debug  :Blackhorse311-BotMind] Loaded voice line: MedicBuddy_ru_team_exfil_5
+Unloading 285 unused Assets to reduce memory usage. Loaded Objects now: 3112586.
+Total: 983.103300 ms (FindLiveObjects: 236.144800 ms CreateObjectMapping: 56.105300 ms MarkObjects: 678.894800 ms  DeleteObjects: 11.958100 ms)
+
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/getBotBehaviours/
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/getBotBehaviours/
+[Info   :ModulePatch] Cached ai brain weights in client
+[Info   :ModulePatch] Updated assault bot Юлиан Бубл to use: assault brain
+[Info   :ModulePatch] Updated assault bot Серый Минский to use: assault brain
+[Info   :ModulePatch] Updated assault bot Костян Калган to use: assault brain
+[Warning:ModulePatch] Updated spt bot stella: pmcUSEC to use: pmcUSEC brain
+[Warning:ModulePatch] Updated spt bot ATTACK-2: pmcBEAR to use: pmcBEAR brain
+[Warning:ModulePatch] Updated spt bot Mihai: pmcUSEC to use: pmcUSEC brain
+[Warning:ModulePatch] Updated spt bot clmove: pmcBEAR to use: pmcBEAR brain
+[Warning:ModulePatch] Updated spt bot 5even: pmcBEAR to use: pmcBEAR brain
+[Warning:ModulePatch] Updated spt bot cMp-zero-hero: pmcUSEC to use: pmcUSEC brain
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Info   :Blackhorse311-BotMind] [Bot1] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot1] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot2] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot2] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot3] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot3] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot4] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot4] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot5] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot5] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot7] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot7] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot8] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot8] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot9] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot9] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot12] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot12] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot13] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot13] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot14] MedicBuddyShooterLayer.IsActive first check (brain attached)
+[Info   :Blackhorse311-BotMind] [Bot14] MedicBuddyMedicLayer.IsActive first check (brain attached)
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Info   :MortalStrike] [MortalStrike] Бросок на ивент: 0.858 (порог 0.200)
+[Info   :MortalStrike] [MortalStrike] Ивент не выпал. Тихий рейд.
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Error  :LootingBots] ([pmcBEAR] Bot8) Has been stuck trying to reach: Propane. Ignoring
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Error  :LootingBots] ([assault] Bot3) Has been stuck trying to reach: AUG A3. Ignoring
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Error  :LootingBots] ([pmcUSEC] Bot7) Has been stuck trying to reach: Toolbox. Ignoring
+[Error  :LootingBots] ([pmcBEAR] Bot12) Has been stuck trying to reach: WD-40. Ignoring
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Error  :LootingBots] ([pmcBEAR] Bot8) Has been stuck trying to reach: WD-40. Ignoring
+[Error  :LootingBots] ([pmcBEAR] Bot12) Has been stuck trying to reach: Propane. Ignoring
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+03/05/2026 15:57:31|Fatal|<>c__DisplayClass176_0.<startReceiving>b__2|System.IO.IOException: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение.
+                          
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+[Debug  :Quests Extended] Custom conditions active: False
+03/05/2026 15:57:33|Fatal|WebSocket.connect|Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+                          
